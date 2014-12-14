@@ -1,0 +1,217 @@
+==============================================================================
+Warcraft III (build 6387)
+
+Exe:      E:\Ä§ÊÞÕù°ÔIII±ù·âÍõ×ù\War3.exe
+Time:     Aug  5, 2012  6:08:37.051 PM
+User:     Administrator
+Computer: ZF-PC
+------------------------------------------------------------------------------
+
+This application has encountered a critical error:
+
+The file data is corrupt.
+
+Program:	E:\Ä§ÊÞÕù°ÔIII±ù·âÍõ×ù\War3.exe
+File:	Maps\Rpg1\10 Hero's Siege NorthLand v00-31.w3m
+
+
+
+
+War3Build: 1.24.4.6387
+Played Maps\Rpg1\10 Hero nice.w3m
+Player  0 <Unused>          	Race 	StartLoc  0
+Player  1 <Unused>          	Race 	StartLoc  1
+Player  2 <Unused>          	Race 	StartLoc  2
+Player  3 <Unused>          	Race 	StartLoc  3
+Player  4 <Unused>          	Race 	StartLoc  4
+Player  5 <Unused>          	Race 	StartLoc  5
+Player  6 <Unused>          	Race 	StartLoc  6
+Player  7 <Unused>          	Race 	StartLoc  7
+Player  8 <Unused>          	Race 	StartLoc  8
+Player  9 <Unused>          	Race 	StartLoc  9
+Player 10 <Unused>          	Race 	StartLoc 10
+Player 11 <Unused>          	Race 	StartLoc 11
+------------------------------------------------------------------------------
+
+----------------------------------------
+    Stack Trace (Manual)
+----------------------------------------
+
+Address  Frame    Logical addr  Module
+
+
+----------------------------------------
+    Stack Trace (Using DBGHELP.DLL)
+----------------------------------------
+
+
+
+----------------------------------------
+    Loaded Modules
+----------------------------------------
+
+0x00400000 - 0x0047D000  E:\Ä§ÊÞÕù°ÔIII±ù·âÍõ×ù\
+0x02380000 - 0x023B5000  C:\Windows\system32\bxscard.dll
+0x02640000 - 0x027AA000  C:\Windows\system32\aetpkss1.dll
+0x10000000 - 0x10014000  C:\Windows\system32\aetsprov.dll
+0x15000000 - 0x15061000  E:\Ä§ÊÞÕù°ÔIII±ù·âÍõ×ù\S
+0x21100000 - 0x2115F000  E:\Ä§ÊÞÕù°ÔIII±ù·âÍõ×ù\m
+0x22600000 - 0x22616000  E:\Ä§ÊÞÕù°ÔIII±ù·âÍõ×ù\redist\miles\Mss
+0x22700000 - 0x22717000  E:\Ä§ÊÞÕù°ÔIII±ù·âÍõ×ù\redist\miles\Mssd
+0x22C00000 - 0x22C18000  E:\Ä§ÊÞÕù°ÔIII±ù·âÍõ×ù\redist\miles\Mss
+0x24600000 - 0x24611000  E:\Ä§ÊÞÕù°ÔIII±ù·âÍõ×ù\redist\miles\Rev
+0x26F00000 - 0x26F2A000  E:\Ä§ÊÞÕù°ÔIII±ù·âÍõ×ù\redist\miles\Mp
+0x60000000 - 0x6005D000  E:\Ä§ÊÞÕù°ÔIII±ù·âÍõ×ù\i
+0x6A8A0000 - 0x6ACAC000  C:\Windows\system32\atiumdva.dll
+0x6B310000 - 0x6B8BE000  C:\Windows\system32\atiumdag.dll
+0x6B8C0000 - 0x6B8E2000  C:\Windows\system32\GLU32.dll
+0x6B910000 - 0x6B9D8000  C:\Windows\system32\OPENGL32.dll
+0x6D570000 - 0x6D5A6000  C:\Windows\system32\AUDIOSES.DLL
+0x6E740000 - 0x6E804000  C:\Windows\system32\aticfx32.dll
+0x6E810000 - 0x6E915000  C:\Windows\system32\d3d8.dll
+0x6F000000 - 0x6FBD4000  E:\Ä§ÊÞÕù°ÔIII±ù·âÍõ×ù\
+0x70C00000 - 0x70C07000  C:\Windows\system32\WSOCK32.dll
+0x71070000 - 0x710F4000  C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7600.16661_none_ebfb56996c72aefc\COMCTL32.dll
+0x71670000 - 0x71693000  C:\Windows\system32\WinSCard.dll
+0x72490000 - 0x7249B000  C:\Windows\system32\atiu9pag.dll
+0x72960000 - 0x729FB000  C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.4927_none_d08a205e442db5b5\MSVCR80.dll
+0x72AF0000 - 0x72B0C000  C:\Windows\system32\cryptnet.dll
+0x734F0000 - 0x735DB000  C:\Windows\system32\dbghelp.dll
+0x73640000 - 0x73646000  C:\Windows\system32\SensApi.dll
+0x73700000 - 0x73706000  C:\Windows\system32\d3d8thk.dll
+0x73750000 - 0x73771000  C:\Windows\system32\ntmarta.dll
+0x73880000 - 0x73887000  C:\Windows\system32\avrt.dll
+0x73940000 - 0x73979000  C:\Windows\System32\MMDevApi.dll
+0x73980000 - 0x73989000  C:\Windows\system32\HID.DLL
+0x73C90000 - 0x73D85000  C:\Windows\System32\PROPSYS.dll
+0x743C0000 - 0x743CD000  C:\Windows\system32\WTSAPI32.dll
+0x74410000 - 0x74419000  C:\Windows\system32\VERSION.dll
+0x744C0000 - 0x744D6000  C:\Windows\system32\GPAPI.dll
+0x744E0000 - 0x744F7000  C:\Windows\system32\USERENV.dll
+0x74570000 - 0x74599000  C:\Windows\system32\WINSTA.dll
+0x74610000 - 0x7464D000  C:\Windows\system32\bcryptprimitives.dll
+0x74710000 - 0x7474B000  C:\Windows\system32\rsaenh.dll
+0x74930000 - 0x7496C000  C:\Windows\system32\mswsock.dll
+0x74970000 - 0x74986000  C:\Windows\system32\CRYPTSP.dll
+0x74A80000 - 0x74A97000  C:\Windows\system32\bcrypt.dll
+0x74AA0000 - 0x74AD8000  C:\Windows\system32\ncrypt.dll
+0x74DB0000 - 0x74DB8000  C:\Windows\system32\Secur32.dll
+0x74DD0000 - 0x74DEA000  C:\Windows\system32\SSPICLI.DLL
+0x74E40000 - 0x74E4C000  C:\Windows\system32\CRYPTBASE.dll
+0x74EC0000 - 0x74ECB000  C:\Windows\system32\profapi.dll
+0x74F30000 - 0x74F3C000  C:\Windows\system32\MSASN1.dll
+0x74F40000 - 0x74F6D000  C:\Windows\system32\WINTRUST.dll
+0x74F70000 - 0x74FBA000  C:\Windows\system32\KERNELBASE.dll
+0x74FC0000 - 0x750DC000  C:\Windows\system32\CRYPT32.dll
+0x75170000 - 0x75182000  C:\Windows\system32\DEVOBJ.dll
+0x75190000 - 0x751C2000  C:\Windows\system32\WINMM.dll
+0x751D0000 - 0x751E3000  C:\Windows\system32\dwmapi.dll
+0x751F0000 - 0x75215000  C:\Windows\system32\POWRPROF.dll
+0x75220000 - 0x75226000  C:\Windows\system32\DCIMAN32.dll
+0x75230000 - 0x75257000  C:\Windows\system32\CFGMGR32.dll
+0x75260000 - 0x752D2000  C:\Windows\system32\DSOUND.DLL
+0x752F0000 - 0x752FA000  C:\Windows\system32\LPK.dll
+0x75300000 - 0x75306000  C:\Windows\system32\NSI.dll
+0x75310000 - 0x7535E000  C:\Windows\system32\GDI32.dll
+0x75360000 - 0x75455000  C:\Windows\system32\WININET.dll
+0x75460000 - 0x754FD000  C:\Windows\system32\USP10.dll
+0x75500000 - 0x755CC000  C:\Windows\system32\MSCTF.dll
+0x755D0000 - 0x7564B000  C:\Windows\system32\comdlg32.dll
+0x75650000 - 0x756A7000  C:\Windows\system32\SHLWAPI.dll
+0x756B0000 - 0x758AD000  C:\Windows\system32\iertutil.dll
+0x758E0000 - 0x75925000  C:\Windows\system32\WLDAP32.dll
+0x75930000 - 0x759DC000  C:\Windows\system32\msvcrt.dll
+0x759E0000 - 0x75A63000  C:\Windows\system32\CLBCatQ.DLL
+0x75A70000 - 0x75C0D000  C:\Windows\system32\SETUPAPI.dll
+0x75C10000 - 0x75D6C000  C:\Windows\system32\ole32.dll
+0x75D70000 - 0x769B9000  C:\Windows\system32\SHELL32.dll
+0x769C0000 - 0x76A60000  C:\Windows\system32\ADVAPI32.dll
+0x76A60000 - 0x76B47000  C:\Windows\system32\DDRAW.dll
+0x76B50000 - 0x76BDF000  C:\Windows\system32\OLEAUT32.dll
+0x76BE0000 - 0x76C81000  C:\Windows\system32\RPCRT4.dll
+0x76C90000 - 0x76D59000  C:\Windows\system32\USER32.dll
+0x76D60000 - 0x76E34000  C:\Windows\system32\kernel32.dll
+0x76E40000 - 0x76F76000  C:\Windows\system32\urlmon.dll
+0x770C0000 - 0x771FC000  C:\Windows\SYSTEM32\ntdll.dll
+0x77270000 - 0x7728F000  C:\Windows\system32\IMM32.dll
+0x77290000 - 0x772A9000  C:\Windows\SYSTEM32\sechost.dll
+0x772B0000 - 0x772E5000  C:\Windows\system32\WS2_32.dll
+0x7C360000 - 0x7C3B6000  C:\Windows\system32\MSVCR71.dll
+0x7C3C0000 - 0x7C43C000  C:\Windows\system32\MSVCP71.dll
+
+
+----------------------------------------
+    Memory Dump
+----------------------------------------
+
+Stack: 1024 bytes starting at (ESP = 00127498)
+
+* = addr                            **                                *       
+00127490: 01 00 6E 00  98 74 12 00  90 35 04 15  40 4B 00 00  ..n..t...5..@K..
+001274A0: 02 00 00 00  60 4E 01 15  01 00 6E 00  C3 2A 00 15  ....`N....n..*..
+001274B0: 98 74 12 00  B8 74 12 00  29 7A 12 00  82 63 01 15  .t...t..)z...c..
+001274C0: 40 4B 00 00  03 00 00 00  00 00 00 00  1E 03 00 00  @K..............
+001274D0: 00 10 00 00  68 12 5F 00  8B 07 00 00  00 00 00 00  ....h._.........
+001274E0: 00 00 00 00  30 00 00 00  01 00 01 00  10 0F 58 00  ....0.........X.
+001274F0: 01 00 00 00  F3 18 00 00  00 00 00 00  00 00 00 00  ................
+00127500: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+00127510: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+00127520: DC 07 08 00  00 00 05 00  12 00 08 00  25 00 33 00  ............%.3.
+00127530: 20 00 00 00  68 9C FF 0E  EE DF CC 01  FB D7 A9 AD   ...h...........
+00127540: F4 DF CC 01  49 0B 23 06  24 B7 CA 01  00 00 00 00  ....I.#.$.......
+00127550: 00 30 07 00  FE FF FF FF  27 33 11 77  57 61 72 33  .0......'3.wWar3
+00127560: 2E 65 78 65  00 00 00 00  00 00 00 00  00 00 00 00  .exe............
+00127570: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+00127580: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+00127590: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+001275A0: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+001275B0: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+001275C0: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+001275D0: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+001275E0: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+001275F0: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+00127600: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+00127610: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+00127620: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+00127630: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+00127640: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+00127650: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+00127660: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+00127670: 54 68 65 20  66 69 6C 65  20 64 61 74  61 20 69 73  The file data is
+00127680: 20 63 6F 72  72 75 70 74  2E 0D 0A 00  00 00 00 00   corrupt........
+00127690: BC 58 CE 04  90 26 D0 04  00 00 00 00  90 26 D0 04  .X...&.......&..
+001276A0: D8 00 6C 03  0E 01 00 00  3C 76 12 00  00 01 00 00  ..l.....<v......
+001276B0: EC 7F 12 00  6D D4 0D 77  01 69 3D 00  FE FF FF FF  ....m..w.i=.....
+001276C0: 36 21 11 77  D1 1F 11 77  BC 58 CE 04  00 00 00 00  6!.w...w.X......
+001276D0: 30 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  0...............
+001276E0: 00 00 00 00  02 00 00 00  00 00 00 00  01 00 00 00  ................
+001276F0: 00 00 01 00  00 00 00 00  00 00 00 00  00 18 00 00  ................
+00127700: 01 00 00 00  15 00 00 00  D8 14 D4 04  01 00 00 00  ................
+00127710: CC 7A 12 00  70 79 12 00  00 00 00 00  00 00 00 00  .z..py..........
+00127720: 00 00 00 00  02 00 00 00  00 00 00 00  38 00 00 00  ............8...
+00127730: 00 00 00 00  BC 58 CE 04  D9 56 32 6B  70 77 12 00  .....X...V2kpw..
+00127740: AA 57 32 6B  00 00 00 00  00 00 00 00  58 26 D0 04  .W2k........X&..
+00127750: 94 7A 12 00  90 77 12 00  00 00 00 00  BC 58 CE 04  .z...w.......X..
+00127760: 00 00 00 00  01 00 00 00  00 00 00 00  01 00 00 00  ................
+00127770: 57 61 72 33  00 65 78 65  00 14 D4 04  58 26 D0 04  War3.exe....X&..
+00127780: 94 7A 12 00  D8 14 D4 04  58 26 D0 04  78 4B 00 00  .z......X&..xK..
+00127790: BC 58 CE 04  00 00 00 00  00 00 00 00  00 00 00 00  .X..............
+001277A0: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+001277B0: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+001277C0: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+001277D0: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+001277E0: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+001277F0: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+00127800: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+00127810: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+00127820: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+00127830: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+00127840: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+00127850: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+00127860: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  ................
+00127870: 00 00 00 00  45 3A 5C C4  A7 CA DE D5  F9 B0 D4 49  ....E:\........I
+00127880: 49 49 B1 F9  B7 E2 CD F5  D7 F9 5C 57  61 72 33 2E  II........\War3.
+00127890: 65 78 65 00  00 00 00 00  00 00 00 00  00 00 00 00  exe.............
+
+
+------------------------------------------------------------------------------

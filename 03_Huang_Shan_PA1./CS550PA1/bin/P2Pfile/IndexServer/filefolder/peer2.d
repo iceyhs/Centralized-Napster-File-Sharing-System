@@ -1,0 +1,17 @@
+peer2
+/src/P2Pfile/Peer2/filefolder
+3002
+127.0.0.1
+p2t1.txt
+p2t10.txt
+p2t2.txt
+p2t3.txt
+p2t4.txt
+p2t5.txt
+p2t6.txt
+p2t7.txt
+p2t8.txt
+p2t9.txt
+test1.txt
+test2.jpg
+test3.jpg

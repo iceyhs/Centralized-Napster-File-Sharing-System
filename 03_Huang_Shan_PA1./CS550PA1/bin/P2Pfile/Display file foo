@@ -1,0 +1,966 @@
+Peer name:  peer1
+Location:  /src/P2Pfile/Peer1/filefolder
+IP:  127.0.0.1
+Listening port  peer1
+peer1 contains:
+test1.jpg
+test2.jpg
+peer2save to C:\Users\fan zhang\Desktop\CS550PA1.6\src\P2Pfile\Peer2\filefolder\test1.jpg
+Peer name:  peer3
+Location:  /src/P2Pfile/Peer3/filefolder
+IP:  127.0.0.1
+Listening port  peer3
+peer3 contains:
+p3t1.txt
+p3t10.txt
+p3t2.txt
+p3t3.txt
+p3t4.txt
+p3t5.txt
+p3t6.txt
+p3t7.txt
+p3t8.txt
+p3t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer1
+Location:  /src/P2Pfile/Peer1/filefolder
+IP:  127.0.0.1
+Listening port  peer1
+peer1 contains:
+p1t1.txt
+p1t10.txt
+p1t2.txt
+p1t3.txt
+p1t4.txt
+p1t5.txt
+p1t6.txt
+p1t7.txt
+p1t8.txt
+p1t9.txt
+test1.jpg
+test1.txt
+test2.jpg
+Peer name:  peer2
+Location:  /src/P2Pfile/Peer2/filefolder
+IP:  127.0.0.1
+Listening port  peer2
+peer2 contains:
+p2t1.txt
+p2t10.txt
+p2t2.txt
+p2t3.txt
+p2t4.txt
+p2t5.txt
+p2t6.txt
+p2t7.txt
+p2t8.txt
+p2t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer3
+Location:  /src/P2Pfile/Peer3/filefolder
+IP:  127.0.0.1
+Listening port  peer3
+peer3 contains:
+p3t1.txt
+p3t10.txt
+p3t2.txt
+p3t3.txt
+p3t4.txt
+p3t5.txt
+p3t6.txt
+p3t7.txt
+p3t8.txt
+p3t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer1
+Location:  /src/P2Pfile/Peer1/filefolder
+IP:  127.0.0.1
+Listening port  peer1
+peer1 contains:
+p1t1.txt
+p1t10.txt
+p1t2.txt
+p1t3.txt
+p1t4.txt
+p1t5.txt
+p1t6.txt
+p1t7.txt
+p1t8.txt
+p1t9.txt
+test1.jpg
+test1.txt
+test2.jpg
+peer3save to C:\Users\fan zhang\Desktop\CS550PA1.6\src\P2Pfile\Peer3\filefolder\test1.jpg
+Peer name:  peer1
+Location:  /src/P2Pfile/Peer1/filefolder
+IP:  127.0.0.1
+Listening port  peer1
+peer1 contains:
+p1t1.txt
+p1t10.txt
+p1t2.txt
+p1t3.txt
+p1t4.txt
+p1t5.txt
+p1t6.txt
+p1t7.txt
+p1t8.txt
+p1t9.txt
+test1.jpg
+test1.txt
+test2.jpg
+Peer name:  peer2
+Location:  /src/P2Pfile/Peer2/filefolder
+IP:  127.0.0.1
+Listening port  peer2
+peer2 contains:
+p2t1.txt
+p2t10.txt
+p2t2.txt
+p2t3.txt
+p2t4.txt
+p2t5.txt
+p2t6.txt
+p2t7.txt
+p2t8.txt
+p2t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer3
+Location:  /src/P2Pfile/Peer3/filefolder
+IP:  127.0.0.1
+Listening port  peer3
+peer3 contains:
+p3t1.txt
+p3t10.txt
+p3t2.txt
+p3t3.txt
+p3t4.txt
+p3t5.txt
+p3t6.txt
+p3t7.txt
+p3t8.txt
+p3t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+peer3save to C:\Users\fan zhang\Desktop\CS550PA1.6\src\P2Pfile\Peer3\filefolder\test1.txt
+peer3save to C:\Users\fan zhang\Desktop\CS550PA1.6\src\P2Pfile\Peer3\filefolder\test1.txt
+peer3save to C:\Users\fan zhang\Desktop\CS550PA1.6\src\P2Pfile\Peer3\filefolder\test1.txt
+Peer name:  peer1
+Location:  /src/P2Pfile/Peer1/filefolder
+IP:  127.0.0.1
+Listening port  peer1
+peer1 contains:
+p1t1.txt
+p1t10.txt
+p1t2.txt
+p1t3.txt
+p1t4.txt
+p1t5.txt
+p1t6.txt
+p1t7.txt
+p1t8.txt
+p1t9.txt
+test1.jpg
+test1.txt
+test2.jpg
+Peer name:  peer1
+Location:  /src/P2Pfile/Peer1/filefolder
+IP:  127.0.0.1
+Listening port  peer1
+peer1 contains:
+p1t1.txt
+p1t10.txt
+p1t2.txt
+p1t3.txt
+p1t4.txt
+p1t5.txt
+p1t6.txt
+p1t7.txt
+p1t8.txt
+p1t9.txt
+test1.jpg
+test1.txt
+test2.jpg
+Peer name:  peer2
+Location:  /src/P2Pfile/Peer2/filefolder
+IP:  127.0.0.1
+Listening port  peer2
+peer2 contains:
+p2t1.txt
+p2t10.txt
+p2t2.txt
+p2t3.txt
+p2t4.txt
+p2t5.txt
+p2t6.txt
+p2t7.txt
+p2t8.txt
+p2t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer3
+Location:  /src/P2Pfile/Peer3/filefolder
+IP:  127.0.0.1
+Listening port  peer3
+peer3 contains:
+p3t1.txt
+p3t10.txt
+p3t2.txt
+p3t3.txt
+p3t4.txt
+p3t5.txt
+p3t6.txt
+p3t7.txt
+p3t8.txt
+p3t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer1
+Location:  /src/P2Pfile/Peer1/filefolder
+IP:  127.0.0.1
+Listening port  peer1
+peer1 contains:
+p1t1.txt
+p1t10.txt
+p1t2.txt
+p1t3.txt
+p1t4.txt
+p1t5.txt
+p1t6.txt
+p1t7.txt
+p1t8.txt
+p1t9.txt
+test1.jpg
+test1.txt
+test2.jpg
+Peer name:  peer1
+Location:  /src/P2Pfile/Peer1/filefolder
+IP:  127.0.0.1
+Listening port  peer1
+peer1 contains:
+p1t1.txt
+p1t10.txt
+p1t2.txt
+p1t3.txt
+p1t4.txt
+p1t5.txt
+p1t6.txt
+p1t7.txt
+p1t8.txt
+p1t9.txt
+test1.jpg
+test1.txt
+test2.jpg
+Peer name:  peer1
+Location:  /src/P2Pfile/Peer1/filefolder
+IP:  127.0.0.1
+Listening port  peer1
+peer1 contains:
+p1t1.txt
+p1t10.txt
+p1t2.txt
+p1t3.txt
+p1t4.txt
+p1t5.txt
+p1t6.txt
+p1t7.txt
+p1t8.txt
+p1t9.txt
+test1.jpg
+test1.txt
+test2.jpg
+Peer name:  peer1
+Location:  /src/P2Pfile/Peer1/filefolder
+IP:  127.0.0.1
+Listening port  peer1
+peer1 contains:
+p1t1.txt
+p1t10.txt
+p1t2.txt
+p1t3.txt
+p1t4.txt
+p1t5.txt
+p1t6.txt
+p1t7.txt
+p1t8.txt
+p1t9.txt
+test1.jpg
+test1.txt
+test2.jpg
+Peer name:  peer1
+Location:  /src/P2Pfile/Peer1/filefolder
+IP:  127.0.0.1
+Listening port  peer1
+peer1 contains:
+p1t1.txt
+p1t10.txt
+p1t2.txt
+p1t3.txt
+p1t4.txt
+p1t5.txt
+p1t6.txt
+p1t7.txt
+p1t8.txt
+p1t9.txt
+test1.jpg
+test1.txt
+test2.jpg
+Peer name:  peer2
+Location:  /src/P2Pfile/Peer2/filefolder
+IP:  127.0.0.1
+Listening port  peer2
+peer2 contains:
+p2t1.txt
+p2t10.txt
+p2t2.txt
+p2t3.txt
+p2t4.txt
+p2t5.txt
+p2t6.txt
+p2t7.txt
+p2t8.txt
+p2t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer3
+Location:  /src/P2Pfile/Peer3/filefolder
+IP:  127.0.0.1
+Listening port  peer3
+peer3 contains:
+p3t1.txt
+p3t10.txt
+p3t2.txt
+p3t3.txt
+p3t4.txt
+p3t5.txt
+p3t6.txt
+p3t7.txt
+p3t8.txt
+p3t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer1
+Location:  /src/P2Pfile/Peer1/filefolder
+IP:  127.0.0.1
+Listening port  peer1
+peer1 contains:
+p1t1.txt
+p1t10.txt
+p1t2.txt
+p1t3.txt
+p1t4.txt
+p1t5.txt
+p1t6.txt
+p1t7.txt
+p1t8.txt
+p1t9.txt
+test1.jpg
+test1.txt
+test2.jpg
+Peer name:  peer2
+Location:  /src/P2Pfile/Peer2/filefolder
+IP:  127.0.0.1
+Listening port  peer2
+peer2 contains:
+p2t1.txt
+p2t10.txt
+p2t2.txt
+p2t3.txt
+p2t4.txt
+p2t5.txt
+p2t6.txt
+p2t7.txt
+p2t8.txt
+p2t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer3
+Location:  /src/P2Pfile/Peer3/filefolder
+IP:  127.0.0.1
+Listening port  peer3
+peer3 contains:
+p3t1.txt
+p3t10.txt
+p3t2.txt
+p3t3.txt
+p3t4.txt
+p3t5.txt
+p3t6.txt
+p3t7.txt
+p3t8.txt
+p3t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer1
+Location:  /src/P2Pfile/Peer1/filefolder
+IP:  127.0.0.1
+Listening port  peer1
+peer1 contains:
+p1t1.txt
+p1t10.txt
+p1t2.txt
+p1t3.txt
+p1t4.txt
+p1t5.txt
+p1t6.txt
+p1t7.txt
+p1t8.txt
+p1t9.txt
+test1.jpg
+test1.txt
+test2.jpg
+Peer name:  peer2
+Location:  /src/P2Pfile/Peer2/filefolder
+IP:  127.0.0.1
+Listening port  peer2
+peer2 contains:
+p2t1.txt
+p2t10.txt
+p2t2.txt
+p2t3.txt
+p2t4.txt
+p2t5.txt
+p2t6.txt
+p2t7.txt
+p2t8.txt
+p2t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer3
+Location:  /src/P2Pfile/Peer3/filefolder
+IP:  127.0.0.1
+Listening port  peer3
+peer3 contains:
+p3t1.txt
+p3t10.txt
+p3t2.txt
+p3t3.txt
+p3t4.txt
+p3t5.txt
+p3t6.txt
+p3t7.txt
+p3t8.txt
+p3t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer2
+Location:  /src/P2Pfile/Peer2/filefolder
+IP:  127.0.0.1
+Listening port  peer2
+peer2 contains:
+p2t1.txt
+p2t10.txt
+p2t2.txt
+p2t3.txt
+p2t4.txt
+p2t5.txt
+p2t6.txt
+p2t7.txt
+p2t8.txt
+p2t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer2
+Location:  /src/P2Pfile/Peer2/filefolder
+IP:  127.0.0.1
+Listening port  peer2
+peer2 contains:
+p2t1.txt
+p2t10.txt
+p2t2.txt
+p2t3.txt
+p2t4.txt
+p2t5.txt
+p2t6.txt
+p2t7.txt
+p2t8.txt
+p2t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer2
+Location:  /src/P2Pfile/Peer2/filefolder
+IP:  127.0.0.1
+Listening port  peer2
+peer2 contains:
+p2t1.txt
+p2t10.txt
+p2t2.txt
+p2t3.txt
+p2t4.txt
+p2t5.txt
+p2t6.txt
+p2t7.txt
+p2t8.txt
+p2t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer1
+Location:  /src/P2Pfile/Peer1/filefolder
+IP:  127.0.0.1
+Listening port  peer1
+peer1 contains:
+p1t1.txt
+p1t10.txt
+p1t2.txt
+p1t3.txt
+p1t4.txt
+p1t5.txt
+p1t6.txt
+p1t7.txt
+p1t8.txt
+p1t9.txt
+test1.jpg
+test1.txt
+test2.jpg
+Peer name:  peer2
+Location:  /src/P2Pfile/Peer2/filefolder
+IP:  127.0.0.1
+Listening port  peer2
+peer2 contains:
+p2t1.txt
+p2t10.txt
+p2t2.txt
+p2t3.txt
+p2t4.txt
+p2t5.txt
+p2t6.txt
+p2t7.txt
+p2t8.txt
+p2t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer3
+Location:  /src/P2Pfile/Peer3/filefolder
+IP:  127.0.0.1
+Listening port  peer3
+peer3 contains:
+p3t1.txt
+p3t10.txt
+p3t2.txt
+p3t3.txt
+p3t4.txt
+p3t5.txt
+p3t6.txt
+p3t7.txt
+p3t8.txt
+p3t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer1
+Location:  /src/P2Pfile/Peer1/filefolder
+IP:  127.0.0.1
+Listening port  peer1
+peer1 contains:
+p1t1.txt
+p1t10.txt
+p1t2.txt
+p1t3.txt
+p1t4.txt
+p1t5.txt
+p1t6.txt
+p1t7.txt
+p1t8.txt
+p1t9.txt
+test1.jpg
+test1.txt
+test2.jpg
+Peer name:  peer2
+Location:  /src/P2Pfile/Peer2/filefolder
+IP:  127.0.0.1
+Listening port  peer2
+peer2 contains:
+p2t1.txt
+p2t10.txt
+p2t2.txt
+p2t3.txt
+p2t4.txt
+p2t5.txt
+p2t6.txt
+p2t7.txt
+p2t8.txt
+p2t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer3
+Location:  /src/P2Pfile/Peer3/filefolder
+IP:  127.0.0.1
+Listening port  peer3
+peer3 contains:
+p3t1.txt
+p3t10.txt
+p3t2.txt
+p3t3.txt
+p3t4.txt
+p3t5.txt
+p3t6.txt
+p3t7.txt
+p3t8.txt
+p3t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer1
+Location:  /src/P2Pfile/Peer1/filefolder
+IP:  127.0.0.1
+Listening port  peer1
+peer1 contains:
+p1t1.txt
+p1t10.txt
+p1t2.txt
+p1t3.txt
+p1t4.txt
+p1t5.txt
+p1t6.txt
+p1t7.txt
+p1t8.txt
+p1t9.txt
+test1.jpg
+test1.txt
+test2.jpg
+Peer name:  peer2
+Location:  /src/P2Pfile/Peer2/filefolder
+IP:  127.0.0.1
+Listening port  peer2
+peer2 contains:
+p2t1.txt
+p2t10.txt
+p2t2.txt
+p2t3.txt
+p2t4.txt
+p2t5.txt
+p2t6.txt
+p2t7.txt
+p2t8.txt
+p2t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer3
+Location:  /src/P2Pfile/Peer3/filefolder
+IP:  127.0.0.1
+Listening port  peer3
+peer3 contains:
+p3t1.txt
+p3t10.txt
+p3t2.txt
+p3t3.txt
+p3t4.txt
+p3t5.txt
+p3t6.txt
+p3t7.txt
+p3t8.txt
+p3t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer3
+Location:  /src/P2Pfile/Peer3/filefolder
+IP:  127.0.0.1
+Listening port  peer3
+peer3 contains:
+p3t1.txt
+p3t10.txt
+p3t2.txt
+p3t3.txt
+p3t4.txt
+p3t5.txt
+p3t6.txt
+p3t7.txt
+p3t8.txt
+p3t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer3
+Location:  /src/P2Pfile/Peer3/filefolder
+IP:  127.0.0.1
+Listening port  peer3
+peer3 contains:
+p3t1.txt
+p3t10.txt
+p3t2.txt
+p3t3.txt
+p3t4.txt
+p3t5.txt
+p3t6.txt
+p3t7.txt
+p3t8.txt
+p3t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer1
+Location:  /src/P2Pfile/Peer1/filefolder
+IP:  127.0.0.1
+Listening port  peer1
+peer1 contains:
+p1t1.txt
+p1t10.txt
+p1t2.txt
+p1t3.txt
+p1t4.txt
+p1t5.txt
+p1t6.txt
+p1t7.txt
+p1t8.txt
+p1t9.txt
+test1.jpg
+test1.txt
+test2.jpg
+Peer name:  peer2
+Location:  /src/P2Pfile/Peer2/filefolder
+IP:  127.0.0.1
+Listening port  peer2
+peer2 contains:
+p2t1.txt
+p2t10.txt
+p2t2.txt
+p2t3.txt
+p2t4.txt
+p2t5.txt
+p2t6.txt
+p2t7.txt
+p2t8.txt
+p2t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer3
+Location:  /src/P2Pfile/Peer3/filefolder
+IP:  127.0.0.1
+Listening port  peer3
+peer3 contains:
+p3t1.txt
+p3t10.txt
+p3t2.txt
+p3t3.txt
+p3t4.txt
+p3t5.txt
+p3t6.txt
+p3t7.txt
+p3t8.txt
+p3t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer3
+Location:  /src/P2Pfile/Peer3/filefolder
+IP:  127.0.0.1
+Listening port  peer3
+peer3 contains:
+p3t1.txt
+p3t10.txt
+p3t2.txt
+p3t3.txt
+p3t4.txt
+p3t5.txt
+p3t6.txt
+p3t7.txt
+p3t8.txt
+p3t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer3
+Location:  /src/P2Pfile/Peer3/filefolder
+IP:  127.0.0.1
+Listening port  peer3
+peer3 contains:
+p3t1.txt
+p3t10.txt
+p3t2.txt
+p3t3.txt
+p3t4.txt
+p3t5.txt
+p3t6.txt
+p3t7.txt
+p3t8.txt
+p3t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer1
+Location:  /src/P2Pfile/Peer1/filefolder
+IP:  127.0.0.1
+Listening port  peer1
+peer1 contains:
+p1t1.txt
+p1t10.txt
+p1t2.txt
+p1t3.txt
+p1t4.txt
+p1t5.txt
+p1t6.txt
+p1t7.txt
+p1t8.txt
+p1t9.txt
+test1.jpg
+test1.txt
+test2.jpg
+Peer name:  peer2
+Location:  /src/P2Pfile/Peer2/filefolder
+IP:  127.0.0.1
+Listening port  peer2
+peer2 contains:
+p2t1.txt
+p2t10.txt
+p2t2.txt
+p2t3.txt
+p2t4.txt
+p2t5.txt
+p2t6.txt
+p2t7.txt
+p2t8.txt
+p2t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer3
+Location:  /src/P2Pfile/Peer3/filefolder
+IP:  127.0.0.1
+Listening port  peer3
+peer3 contains:
+p3t1.txt
+p3t10.txt
+p3t2.txt
+p3t3.txt
+p3t4.txt
+p3t5.txt
+p3t6.txt
+p3t7.txt
+p3t8.txt
+p3t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer1
+Location:  /src/P2Pfile/Peer1/filefolder
+IP:  127.0.0.1
+Listening port  peer1
+peer1 contains:
+p1t1.txt
+p1t10.txt
+p1t2.txt
+p1t3.txt
+p1t4.txt
+p1t5.txt
+p1t6.txt
+p1t7.txt
+p1t8.txt
+p1t9.txt
+test1.jpg
+test1.txt
+test2.jpg
+Peer name:  peer2
+Location:  /src/P2Pfile/Peer2/filefolder
+IP:  127.0.0.1
+Listening port  peer2
+peer2 contains:
+p2t1.txt
+p2t10.txt
+p2t2.txt
+p2t3.txt
+p2t4.txt
+p2t5.txt
+p2t6.txt
+p2t7.txt
+p2t8.txt
+p2t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer3
+Location:  /src/P2Pfile/Peer3/filefolder
+IP:  127.0.0.1
+Listening port  peer3
+peer3 contains:
+p3t1.txt
+p3t10.txt
+p3t2.txt
+p3t3.txt
+p3t4.txt
+p3t5.txt
+p3t6.txt
+p3t7.txt
+p3t8.txt
+p3t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer1
+Location:  /src/P2Pfile/Peer1/filefolder
+IP:  127.0.0.1
+Listening port  peer1
+peer1 contains:
+p1t1.txt
+p1t10.txt
+p1t2.txt
+p1t3.txt
+p1t4.txt
+p1t5.txt
+p1t6.txt
+p1t7.txt
+p1t8.txt
+p1t9.txt
+test1.jpg
+test1.txt
+test2.jpg
+Peer name:  peer2
+Location:  /src/P2Pfile/Peer2/filefolder
+IP:  127.0.0.1
+Listening port  peer2
+peer2 contains:
+p2t1.txt
+p2t10.txt
+p2t2.txt
+p2t3.txt
+p2t4.txt
+p2t5.txt
+p2t6.txt
+p2t7.txt
+p2t8.txt
+p2t9.txt
+test1.txt
+test2.jpg
+test3.jpg
+Peer name:  peer3
+Location:  /src/P2Pfile/Peer3/filefolder
+IP:  127.0.0.1
+Listening port  peer3
+peer3 contains:
+p3t1.txt
+p3t10.txt
+p3t2.txt
+p3t3.txt
+p3t4.txt
+p3t5.txt
+p3t6.txt
+p3t7.txt
+p3t8.txt
+p3t9.txt
+test1.txt
+test2.jpg
+test3.jpg

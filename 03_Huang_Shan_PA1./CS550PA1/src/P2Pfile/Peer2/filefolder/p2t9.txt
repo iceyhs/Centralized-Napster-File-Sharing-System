@@ -1,0 +1,639 @@
+--------- [ Thread 1 ] ----------------+-------+------+---+--->
+2014-08-14 22:04:34.303913 (UTC-05:00) | 1984  | 1    | I | CoreService.Program.Main()
+2014-08-14 22:04:34.303913 (UTC-05:00) | 1984  | 1    | I | Program.Main() {
+2014-08-14 22:04:34.319539 (UTC-05:00) | 1984  | 1    | I |     CoreService.Program.Main() looking for configuration file C:\ProgramData\Garmin\Express\keeprunning.config
+2014-08-14 22:04:34.319539 (UTC-05:00) | 1984  | 1    | I |     Program.Run() {
+2014-08-14 22:04:34.522673 (UTC-05:00) | 1984  | 1    | I |         Program.Load() {
+2014-08-14 22:04:34.553925 (UTC-05:00) | 1984  | 1    | I |             Program = {
+2014-08-14 22:04:34.553925 (UTC-05:00) | 1984  | 1    | I |                 InstallationGuid = "dafdeabd-b184-42d8-9ae3-43dc8d417ac6"
+2014-08-14 22:04:34.553925 (UTC-05:00) | 1984  | 1    | I |                 ClientLanguage = "en-US"
+2014-08-14 22:04:34.553925 (UTC-05:00) | 1984  | 1    | I |                 ApplicationVersion = "2.9.6.10"
+2014-08-14 22:04:34.553925 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:04:34.553925 (UTC-05:00) | 1984  | 1    | I |             GLog = {
+2014-08-14 22:04:34.569550 (UTC-05:00) | 1984  | 1    | I |                 Threshold = {
+2014-08-14 22:04:34.569550 (UTC-05:00) | 1984  | 1    | I |                     0 = Debug
+2014-08-14 22:04:34.569550 (UTC-05:00) | 1984  | 1    | I |                 }
+2014-08-14 22:04:34.569550 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:04:34.757059 (UTC-05:00) | 1984  | 1    | I |             CoreDeviceManager.Load() {
+2014-08-14 22:04:34.803936 (UTC-05:00) | 1984  | 1    | I |                 Device Manager = {
+2014-08-14 22:04:34.803936 (UTC-05:00) | 1984  | 1    | I |                     Devices = {
+2014-08-14 22:04:34.803936 (UTC-05:00) | 1984  | 1    | I |                         0 = {
+2014-08-14 22:04:34.803936 (UTC-05:00) | 1984  | 1    | I |                             UnitId = 3835173793
+2014-08-14 22:04:34.803936 (UTC-05:00) | 1984  | 1    | I |                             FriendlyName = "n¨¹vi 50"
+2014-08-14 22:04:34.803936 (UTC-05:00) | 1984  | 1    | I |                             Model = "n¨¹vi 50"
+2014-08-14 22:04:34.803936 (UTC-05:00) | 1984  | 1    | I |                             SerialNumber = "2T9215317"
+2014-08-14 22:04:34.803936 (UTC-05:00) | 1984  | 1    | I |                             SoftwarePartNumber = "006-B1350-00"
+2014-08-14 22:04:34.803936 (UTC-05:00) | 1984  | 1    | I |                             SoftwareVersion = "380"
+2014-08-14 22:04:34.803936 (UTC-05:00) | 1984  | 1    | I |                             MountPoint = <null>
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             UpdateFiles = "English_American_.vpm, Deutsch__.vpm, Francais_European_.vpm, Italiano__.vpm, Espanol_European_.vpm, Svenska__.vpm, Dansk__.vpm, Portugues_European_.vpm, Nederlands__.vpm, Norsk__.vpm, Suomi__.vpm, Polski__.vpm, Cesky__.vpm, Magyar__.vpm, English_British_.vpm, Francais_Canadian_.vpm, Portugues_Brazilian_.vpm, Ellinika__.vpm, Flemish__.vpm, Chinese_Simplified_.vpm, Japanese__.vpm, Hrvatski__.vpm, Slovenscina__.vpm, Eesti__.vpm, Lietuviu__.vpm, Romana__.vpm, Russkiy__.vpm, Slovencina__.vpm, Turkce__.vpm, Bulgarian__.vpm, Srpski__.vpm, Chinese_Traditional_.vpm, Korean__.vpm, Thai__.vpm, Taiwanese__.vpm, Cantonese__.vpm, Arabic__.vpm, Letzebuergesch__.vpm, Catala__.vpm, Afrikaans__.vpm, Hakka__.vpm, Polski__Agata.vpm, Svenska__Alva.vpm, Nederlands__Claire.vpm, English_British_Daniel.vpm, Espanol_European_Diego.vpm, Nederlands_Belgie_Ellen.vpm, English_British_Emily.vpm, Francais_Canadien_Felix.vpm, Dansk__Ida.vpm, Espanol_Americas_Javier.vpm, English_American_Jill.vpm, Portuguese_European_Joana.vpm, Francais_Canadien_Julie.vpm, English_Australian_Karen.vpm, English_Australian_Lee.vpm, Portuguese_European_Madalena.vpm, Arabic__Maged.vpm, Suomi__Mikko.vpm, Pycckuu__Milena.vpm, Espanol_European_Monica.vpm, Svenska__Oskar.vpm, Italiano__Paolo.vpm, Espanol_Americas_Paulina.vpm, Portuguese_Brazilian_Raquel.vpm, English_American_Samantha.vpm, English_Indian_Sangeeta.vpm, Francais_European_Sebastian.vpm, English_British_Serena.vpm, Italiano__Silvia.vpm, Deutsch__Steffi.vpm, Norsk__Stine.vpm, Greek__Tasos.vpm, English_American_Jack.vpm, Francais_European_Virginie.vpm, Nederlands__Xander.vpm, Deutsch__Yannick.vpm, English_American_Michelle.vpm, Espanol_Americas_Ana.vpm, USCanadaCyclopsSample.gpi, gmapbmap.img, gmaptz.img, D3479070A.JCV, GUPDATE.GCD, car_blue.srf, truck_blue.srf, euro_blue.srf, triangle_blue.srf, 006-D0952-01.bin, 006-D0952-02.bin, 006-D0952-03.bin, 006-D0952-04.bin, 006-D0952-05.bin, 006-D0952-06.bin, 006-D0952-07.bin, 006-D0952-08.bin, D313700.zip, H011600.zip, D313900.zip, D165900.zip, Locales.xml, gmapprom.img"
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             DataTypes = "GPSData, GPSData, LastKnownPosition, BaseMaps, PreProgrammedMaps, SupplementalMaps, NMaps, cityXplorer, TimeZoneMaps, PreProgrammedLaneAssistTemplatePortrait, Loc8, Voices, VCTVoices, FTLImageVersion, CustomPOI, Safety_Cameras_PROM_Provider_1, Scenic_Routes_Provider_1, Vehicle, POIFeedback, StarRatings, UIStats, LanguageGuide, ErrorShutdownReports, UnicodeMaps"
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             ActiveVoices = {"English_American_Samantha"}
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             MarketSegment = Automotive
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             MapStorageLocation = Unspecified
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             IsHybrid = False
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             HasSeenActivityTrackerError = False
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             IsSupportedByConnect = False
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             IsUpdateAutoStartEnabled = True
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             CanSendUsageData = True
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             HistoricalTransferRate = 0
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             LanguagePacks = { }
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             ActiveLanguage = ""
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             RejectedMaps = { }
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             ShouldAlwaysBackup = True
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             ShouldEraseDataAfterSync = False
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             ShouldAutoSync = False
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             ShouldAutoInstallSoftware = False
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             SocialProfile = {
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                                 DisplayName = <null>
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                                 FullName = <null>
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                                 ImagePath = <null>
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                                 Location = <null>
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             }
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             DeviceType = 0
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             ManufacturerID = 0
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             NeedsNewOAuthData = False
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             NeedsReAuthentication = False
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             RequiresExplicitFileDelete = False
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             IsSetupIncomplete = False
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             [ExtendedDeviceDetails]
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             GraphicPath = "C:\ProgramData\Garmin\Core Update Service\DeviceImages\3835173793.png"
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             Manuals = {
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                                 0 = {
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                                     Name = "Important Safety and Product Information"
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                                     Url = "http://static.garmincdn.com/pumac/ISPI_Auto_Small_12ML.pdf"
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                                 }
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                                 1 = {
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                                     Name = "Owner's Manual"
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                                     Url = "http://static.garmincdn.com/pumac/nuvi_30_40_50_EN_OM.pdf"
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                                 }
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                                 2 = {
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                                     Name = "Quick Start Manual"
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                                     Url = "http://static.garmincdn.com/pumac/nuvi_304050_QSM.pdf"
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                                 }
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                                 3 = {
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                                     Name = "Declaration of Conformity"
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                                     Url = "http://static.garmincdn.com/pumac/nuvi_30_40_50_DoC.pdf"
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                                 }
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             }
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             ExpansionSlotType = MicroSD
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             SupportPageUrl = "http://support.garmin.com/support/sw/supportPage/display?locale=en_US&topicName=nuvi%2050LM"
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             RegistrationState = Postponed
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             OEMVolumes = ""
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             DeviceStorageType = MassStorage
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             FirstFixTime = 0
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             LastExtendedDetailCheckTime = 7/2/2014 12:03:14 AM
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             LastSoftwareUpdateCheckTime = 8/11/2014 10:53:09 PM
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             LastMapUpdateCheckTime = 8/11/2014 10:53:09 PM
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             LastSyncTime = 1/1/0001 12:00:00 AM
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             SoftwareUpdateCheckInterval = 14.00:00:00
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             MapUpdateCheckInterval = 7.00:00:00
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             DisableMapUpdateChecksUntil = 8/30/2014 3:50:34 PM
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             IsMapUpdateAutoCheckEnabled = True
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             SupportsUnicode = True
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                             DeviceXmlPath = "C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\Garmin\Core Update Service\GDXML\3835173793.xml"
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                         }
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                     }
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                     m_ignoredDevices = { }
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |                 }
+2014-08-14 22:04:34.866439 (UTC-05:00) | 1984  | 1    | I |             }
+--------- [ Thread 9 ] ----------------+-------+------+---+--->
+2014-08-14 22:04:34.882065 (UTC-05:00) | 1984  | 9    | I | CoreDownloadManager.PreventSleepThread() {
+--------- [ Thread 1 ] ----------------+-------+------+---+--->
+2014-08-14 22:04:34.882065 (UTC-05:00) | 1984  | 1    | I |             CoreUpdateManager.Load() {
+2014-08-14 22:04:34.897691 (UTC-05:00) | 1984  | 1    | I |                 Update Manager = {
+2014-08-14 22:04:34.897691 (UTC-05:00) | 1984  | 1    | I |                     m_canceledUpdateKeys = {
+2014-08-14 22:04:34.897691 (UTC-05:00) | 1984  | 1    | I |                     }
+2014-08-14 22:04:34.897691 (UTC-05:00) | 1984  | 1    | I |                     m_restartableUpdateKeys = {
+2014-08-14 22:04:34.897691 (UTC-05:00) | 1984  | 1    | I |                     }
+2014-08-14 22:04:34.897691 (UTC-05:00) | 1984  | 1    | I |                     m_installedUpdateKeys = {
+2014-08-14 22:04:34.897691 (UTC-05:00) | 1984  | 1    | I |                     }
+2014-08-14 22:04:34.897691 (UTC-05:00) | 1984  | 1    | I |                     m_mapUpdatesToRestore = {
+2014-08-14 22:04:34.897691 (UTC-05:00) | 1984  | 1    | I |                         0 = [3835173793, Garmin.Cartography.MapUpdate.CoreService.Update.CoreMapUpdate]
+2014-08-14 22:04:34.897691 (UTC-05:00) | 1984  | 1    | I |                     }
+2014-08-14 22:04:34.897691 (UTC-05:00) | 1984  | 1    | I |                     m_isUpdateAutoStartEnabled = True
+2014-08-14 22:04:34.897691 (UTC-05:00) | 1984  | 1    | I |                     LastApplicationCheckTime = 8/11/2014 10:53:11 PM
+2014-08-14 22:04:34.897691 (UTC-05:00) | 1984  | 1    | I |                     LastGarageCheckTime = 1/1/0001 12:00:00 AM
+2014-08-14 22:04:34.897691 (UTC-05:00) | 1984  | 1    | I |                     CurrentDataPath = "C:\ProgramData\Garmin\Core Update Service"
+2014-08-14 22:04:34.897691 (UTC-05:00) | 1984  | 1    | I |                     PreviousDataPaths = { }
+2014-08-14 22:04:34.897691 (UTC-05:00) | 1984  | 1    | I |                 }
+2014-08-14 22:04:34.897691 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:04:34.897691 (UTC-05:00) | 1984  | 1    | I |             CoreDownloadManager.Load() {
+2014-08-14 22:04:34.913317 (UTC-05:00) | 1984  | 1    | I |                 CoreDownloadManager.CheckIsScheduled() {
+2014-08-14 22:04:34.928942 (UTC-05:00) | 1984  | 1    | I |                     IsScheduled = True
+2014-08-14 22:04:34.928942 (UTC-05:00) | 1984  | 1    | I |                 }
+2014-08-14 22:04:34.928942 (UTC-05:00) | 1984  | 1    | I |                 Download Manager = {
+2014-08-14 22:04:34.928942 (UTC-05:00) | 1984  | 1    | I |                     m_downloads = { }
+2014-08-14 22:04:34.928942 (UTC-05:00) | 1984  | 1    | I |                     m_downloader = <null>
+2014-08-14 22:04:34.928942 (UTC-05:00) | 1984  | 1    | I |                     m_isSchedulingEnabled = True
+2014-08-14 22:04:34.928942 (UTC-05:00) | 1984  | 1    | I |                     LastKnownBandwidth = 18533.7364400614
+2014-08-14 22:04:34.928942 (UTC-05:00) | 1984  | 1    | I |                     ProxySettings = {
+2014-08-14 22:04:34.928942 (UTC-05:00) | 1984  | 1    | I |                         UseSystemSettings = True
+2014-08-14 22:04:34.928942 (UTC-05:00) | 1984  | 1    | I |                         Url = ""
+2014-08-14 22:04:34.928942 (UTC-05:00) | 1984  | 1    | I |                         Port = 0
+2014-08-14 22:04:34.928942 (UTC-05:00) | 1984  | 1    | I |                         Username = ""
+2014-08-14 22:04:34.928942 (UTC-05:00) | 1984  | 1    | I |                         Password = ""
+2014-08-14 22:04:34.928942 (UTC-05:00) | 1984  | 1    | I |                     }
+2014-08-14 22:04:34.928942 (UTC-05:00) | 1984  | 1    | I |                     Schedule = {
+2014-08-14 22:04:34.928942 (UTC-05:00) | 1984  | 1    | I |                         0: [111111111111111111111111]
+2014-08-14 22:04:34.928942 (UTC-05:00) | 1984  | 1    | I |                         1: [111111111111111111111111]
+2014-08-14 22:04:34.928942 (UTC-05:00) | 1984  | 1    | I |                         2: [111111111111111111111111]
+2014-08-14 22:04:34.928942 (UTC-05:00) | 1984  | 1    | I |                         3: [111111111111111111111111]
+2014-08-14 22:04:34.928942 (UTC-05:00) | 1984  | 1    | I |                         4: [111111111111111111111111]
+2014-08-14 22:04:34.928942 (UTC-05:00) | 1984  | 1    | I |                         5: [111111111111111111111111]
+2014-08-14 22:04:34.928942 (UTC-05:00) | 1984  | 1    | I |                         6: [111111111111111111111111]
+2014-08-14 22:04:34.928942 (UTC-05:00) | 1984  | 1    | I |                     }
+2014-08-14 22:04:34.928942 (UTC-05:00) | 1984  | 1    | I |                 }
+2014-08-14 22:04:34.928942 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:04:34.928942 (UTC-05:00) | 1984  | 1    | I |             CoreAnalyticRecorder.Load() {
+2014-08-14 22:04:34.928942 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:04:34.928942 (UTC-05:00) | 1984  | 1    | I |         }
+--------- [ Thread 6 ] ----------------+-------+------+---+--->
+2014-08-14 22:04:34.928942 (UTC-05:00) | 1984  | 6    | I | CoreDeviceManager.InitializeDeviceLibrary.BackgroundThread {
+--------- [ Thread 4 ] ----------------+-------+------+---+--->
+2014-08-14 22:04:34.928942 (UTC-05:00) | 1984  | 4    | I | GetDeviceChanges
+2014-08-14 22:04:34.944568 (UTC-05:00) | 1984  | 4    | I | <LoadMassStorageDevices>d__2d.MoveNext() {
+2014-08-14 22:04:34.944568 (UTC-05:00) | 1984  | 4    | I |     Looking for mass storage devices.
+2014-08-14 22:04:34.944568 (UTC-05:00) | 1984  | 4    | I |     Checking Volume:  
+2014-08-14 22:04:34.944568 (UTC-05:00) | 1984  | 4    | I |     Unmounted volume is not a Garmin device
+2014-08-14 22:04:34.944568 (UTC-05:00) | 1984  | 4    | I |     Checking Volume: C:\  
+2014-08-14 22:04:34.944568 (UTC-05:00) | 1984  | 4    | I |     No device XML found at C:\Garmin\GarminDevice.xml
+2014-08-14 22:04:34.944568 (UTC-05:00) | 1984  | 4    | I |     Checking Volume: H:\  
+2014-08-14 22:04:34.944568 (UTC-05:00) | 1984  | 4    | I |     No device XML found at H:\Garmin\GarminDevice.xml
+2014-08-14 22:04:34.944568 (UTC-05:00) | 1984  | 4    | I |     Checking Volume: D:\  
+2014-08-14 22:04:34.944568 (UTC-05:00) | 1984  | 4    | I |     No device XML found at D:\Garmin\GarminDevice.xml
+2014-08-14 22:04:34.944568 (UTC-05:00) | 1984  | 4    | I |     Checking Volume: G:\  
+2014-08-14 22:04:34.944568 (UTC-05:00) | 1984  | 4    | I |     No device XML found at G:\Garmin\GarminDevice.xml
+2014-08-14 22:04:34.944568 (UTC-05:00) | 1984  | 4    | I |     Checking Volume:  
+2014-08-14 22:04:34.944568 (UTC-05:00) | 1984  | 4    | I |     Unmounted volume is not a Garmin device
+2014-08-14 22:04:34.944568 (UTC-05:00) | 1984  | 4    | I |     Checking Volume: E:\  
+2014-08-14 22:04:34.944568 (UTC-05:00) | 1984  | 4    | I |     No device XML found at E:\Garmin\GarminDevice.xml
+2014-08-14 22:04:34.944568 (UTC-05:00) | 1984  | 4    | I | }
+2014-08-14 22:04:34.944568 (UTC-05:00) | 1984  | 4    | I | from LoadMassStorageDevices 0
+--------- [ Thread 1 ] ----------------+-------+------+---+--->
+2014-08-14 22:04:34.960194 (UTC-05:00) | 1984  | 1    | I |         ServiceMain..ctor() {
+--------- [ Thread 7 ] ----------------+-------+------+---+--->
+2014-08-14 22:04:34.960194 (UTC-05:00) | 1984  | 7    | I | Program.Run.BackgroundThread {
+--------- [ Thread 1 ] ----------------+-------+------+---+--->
+2014-08-14 22:04:34.960194 (UTC-05:00) | 1984  | 1    | I |         }
+--------- [ Thread 7 ] ----------------+-------+------+---+--->
+2014-08-14 22:04:34.960194 (UTC-05:00) | 1984  | 7    | I |     GInternet.DetectDefaultProxy() {
+--------- [ Thread 5 ] ----------------+-------+------+---+--->
+2014-08-14 22:04:34.960194 (UTC-05:00) | 1984  | 5    | I | ServiceMain.OnStart() {
+2014-08-14 22:04:34.960194 (UTC-05:00) | 1984  | 5    | I |     CoreWcfService..ctor() {
+2014-08-14 22:04:34.960194 (UTC-05:00) | 1984  | 5    | I |     }
+2014-08-14 22:04:34.960194 (UTC-05:00) | 1984  | 5    | I |     CoreWcfService.Start() {
+--------- [ Thread 4 ] ----------------+-------+------+---+--->
+2014-08-14 22:04:35.022697 (UTC-05:00) | 1984  | 4    | I | from LoadMtpDevices 0
+2014-08-14 22:04:35.022697 (UTC-05:00) | 1984  | 4    | I | DetectHostileProcess
+2014-08-14 22:04:35.022697 (UTC-05:00) | 1984  | 4    | I | from GetGarminModeDevices 0
+2014-08-14 22:04:35.022697 (UTC-05:00) | 1984  | 4    | I | attachedDevices 0
+2014-08-14 22:04:35.022697 (UTC-05:00) | 1984  | 4    | D | Device retrieval took 94 ms.
+--------- [ Thread 6 ] ----------------+-------+------+---+--->
+2014-08-14 22:04:35.038323 (UTC-05:00) | 1984  | 6    | I |     CoreDeviceManager.OnDeviceDetached() {
+2014-08-14 22:04:35.038323 (UTC-05:00) | 1984  | 6    | I |         Clearing mount point for device 3835173793.
+2014-08-14 22:04:35.038323 (UTC-05:00) | 1984  | 6    | I |     }
+2014-08-14 22:04:35.116452 (UTC-05:00) | 1984  | 6    | I | }
+--------- [ Thread 8 ] ----------------+-------+------+---+--->
+2014-08-14 22:04:35.116452 (UTC-05:00) | 1984  | 8    | I | CoreDeviceManager.UpdateDeviceDetailsAsync.BackgroundThread {
+2014-08-14 22:04:35.116452 (UTC-05:00) | 1984  | 8    | I |     unitIds = "3835173793"
+2014-08-14 22:04:35.194579 (UTC-05:00) | 1984  | 8    | I |     CoreDeviceManager.UpdateDeviceDetails() {
+2014-08-14 22:04:35.194579 (UTC-05:00) | 1984  | 8    | I |         unitId = 3835173793
+2014-08-14 22:04:35.194579 (UTC-05:00) | 1984  | 8    | I |         Last check was 44.12593 days ago, threshold is 7.00000 days.
+2014-08-14 22:04:35.194579 (UTC-05:00) | 1984  | 8    | I |         forceUpdate = False
+2014-08-14 22:04:35.194579 (UTC-05:00) | 1984  | 8    | I |         thresholdPassed = True
+2014-08-14 22:04:35.194579 (UTC-05:00) | 1984  | 8    | I |         needsIsRegistered = False
+2014-08-14 22:04:35.194579 (UTC-05:00) | 1984  | 8    | I |         needsManuals = False
+2014-08-14 22:04:35.194579 (UTC-05:00) | 1984  | 8    | I |         needsExtended = False
+2014-08-14 22:04:35.194579 (UTC-05:00) | 1984  | 8    | I |     }
+2014-08-14 22:04:35.194579 (UTC-05:00) | 1984  | 8    | I |     CoreWcfService.OnDevicesUpdated() {
+2014-08-14 22:04:35.194579 (UTC-05:00) | 1984  | 8    | I |         Devices just updated:
+2014-08-14 22:04:35.194579 (UTC-05:00) | 1984  | 8    | I |     }
+2014-08-14 22:04:35.194579 (UTC-05:00) | 1984  | 8    | I | }
+--------- [ Thread 5 ] ----------------+-------+------+---+--->
+2014-08-14 22:04:35.960240 (UTC-05:00) | 1984  | 5    | I |         CoreEventReportTransmitter.StartAutoTransmitTimer() {
+2014-08-14 22:04:35.960240 (UTC-05:00) | 1984  | 5    | I |         }
+2014-08-14 22:04:35.960240 (UTC-05:00) | 1984  | 5    | I |         CoreUpdateManager.StartAutoUpdateTimer() {
+2014-08-14 22:04:35.960240 (UTC-05:00) | 1984  | 5    | D |             CoreUpdateManager.GetNextAutoStartInterval() {
+2014-08-14 22:04:35.960240 (UTC-05:00) | 1984  | 5    | D |                 startAtNextHour = False
+2014-08-14 22:04:35.960240 (UTC-05:00) | 1984  | 5    | D |                 random = 00:22:07.0710000
+2014-08-14 22:04:35.960240 (UTC-05:00) | 1984  | 5    | D |                 interval = 00:22:07.0710000
+2014-08-14 22:04:35.960240 (UTC-05:00) | 1984  | 5    | D |             }
+2014-08-14 22:04:35.960240 (UTC-05:00) | 1984  | 5    | I |         }
+2014-08-14 22:04:35.960240 (UTC-05:00) | 1984  | 5    | I |         CoreDownloadManager.StartScheduleTimer() {
+2014-08-14 22:04:35.960240 (UTC-05:00) | 1984  | 5    | I |         }
+2014-08-14 22:04:35.975866 (UTC-05:00) | 1984  | 5    | I |         WCF Service is available. [43954668]
+2014-08-14 22:04:35.975866 (UTC-05:00) | 1984  | 5    | I |     }
+2014-08-14 22:04:35.975866 (UTC-05:00) | 1984  | 5    | E |     ServiceMain.RegisterServiceEvents() {
+2014-08-14 22:04:35.975866 (UTC-05:00) | 1984  | 5    | I |         DeviceNotifier_Release.Start() {
+2014-08-14 22:04:35.975866 (UTC-05:00) | 1984  | 5    | I |         }
+2014-08-14 22:04:35.975866 (UTC-05:00) | 1984  | 5    | E |     }
+2014-08-14 22:04:35.975866 (UTC-05:00) | 1984  | 5    | I | }
+--------- [ Thread 1 ] ----------------+-------+------+---+--->
+2014-08-14 22:04:36.053995 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:04:36.053995 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:04:36.053995 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\ROOT#UNNAMED_DEVICE#0000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\Topology  ??????    ??? ?@ç¢?«ž??Ò«                            
+2014-08-14 22:04:36.053995 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:04:36.053995 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:04:36.053995 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:04:36.053995 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:04:36.053995 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\ROOT#UNNAMED_DEVICE#0000#{dda54a40-1e4c-11d1-a050-405705c10000}\Topology  éJ?îÚ?éJ?    ??? ?@Ï¡?çÜD?Ò«                            
+2014-08-14 22:04:36.053995 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:04:36.053995 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:04:36.053995 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:04:36.053995 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:04:36.053995 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\ROOT#UNNAMED_DEVICE#0000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\Wave  ??????    ??D ?@ÀB?áÑ??Ò«C:\WINDOWS\Microsoft.Net\assembl
+2014-08-14 22:04:36.053995 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:04:36.053995 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:04:36.053995 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:04:36.053995 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:04:36.053995 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\ROOT#UNNAMED_DEVICE#0000#{65e8773e-8f56-11d0-a3b9-00a0c9223196}\Wave  ??????    ??D ?@ÀB?Žè3?Ò«C:\WINDOWS\Microsoft.Net\assembl
+2014-08-14 22:04:36.053995 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:04:36.053995 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:04:36.053995 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:04:36.053995 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:04:36.053995 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\ROOT#UNNAMED_DEVICE#0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\Wave  ??????    ??D ?@ÀB?Žˆ??Ò«       ?³ÎX         ?³ÎX  F 
+2014-08-14 22:04:36.053995 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:04:36.053995 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:04:36.053995 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:04:36.053995 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:04:36.053995 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\ROOT#UNNAMED_DEVICE#0000#{eb115ffc-10c8-4964-831d-6dcb02e6f23f}\Wave  ??????    ??D ?@¸{?›??Ò«\??\C:\Program Files (x86)\Garmi
+2014-08-14 22:04:36.053995 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:04:36.053995 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:04:36.100871 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:04:36.100871 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:04:36.100871 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\SWD#MMDEVAPI#{0.0.0.00000000}.{d1ec02a1-363b-4ecd-b597-81228604d1b1}#{e6327cad-dcec-4949-ae8a-991e976a79d2}   ??????    ??? 
+2014-08-14 22:04:36.100871 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:04:36.100871 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:04:36.616521 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:04:36.616521 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:04:36.616521 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\ROOT#UNNAMED_DEVICE#0000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\Wave  ??????    ??D ?@º’?_??Ò«¨¡G        G    ¨¡G      ¨¡ G    
+2014-08-14 22:04:36.616521 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:04:36.616521 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:04:36.616521 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:04:36.616521 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:04:36.616521 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\ROOT#UNNAMED_DEVICE#0000#{65e8773e-8f56-11d0-a3b9-00a0c9223196}\Wave  ??????    ??D ?@ÀB?ŒÁ??Ò«C:\WINDOWS\Microsoft.Net\assembl
+2014-08-14 22:04:36.616521 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:04:36.616521 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:04:36.616521 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:04:36.616521 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:04:36.616521 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\ROOT#UNNAMED_DEVICE#0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\Wave  ??????    ??D ?@º’?K??Ò«ë£ ¡ã ??¡ã    ±ŠÖ¼ÞQ????Úå\\?\ROOT#UNN
+2014-08-14 22:04:36.616521 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:04:36.616521 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:04:36.616521 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:04:36.616521 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:04:36.616521 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\ROOT#UNNAMED_DEVICE#0000#{eb115ffc-10c8-4964-831d-6dcb02e6f23f}\Wave  ??????    ??D ?@Ï¡?s??Ò«       ?³Î?        ?    
+2014-08-14 22:04:36.616521 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:04:36.616521 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:04:36.616521 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:04:36.616521 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:04:36.616521 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\ROOT#UNNAMED_DEVICE#0000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\Topology  ??üy???    ??? ?@ñ¥?¬h??Ò«                            
+2014-08-14 22:04:36.616521 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:04:36.616521 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:04:36.616521 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:04:36.616521 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:04:36.616521 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\ROOT#UNNAMED_DEVICE#0000#{dda54a40-1e4c-11d1-a050-405705c10000}\Topology  ??üy???    ??? ?@µC?¬h??Ò«                            
+2014-08-14 22:04:36.616521 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:04:36.616521 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:04:36.679024 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:04:36.679024 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:04:36.679024 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\SWD#MMDEVAPI#{0.0.0.00000000}.{d1ec02a1-363b-4ecd-b597-81228604d1b1}#{e6327cad-dcec-4949-ae8a-991e976a79d2}   ??????    ??? 
+2014-08-14 22:04:36.679024 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:04:36.679024 (UTC-05:00) | 1984  | 1    | I |         }
+--------- [ Thread 7 ] ----------------+-------+------+---+--->
+2014-08-14 22:04:36.741527 (UTC-05:00) | 1984  | 7    | I |     }
+2014-08-14 22:04:36.804029 (UTC-05:00) | 1984  | 7    | I |     CoreEventReportTransmitter.TransmitQueuedErrorEventReports() {
+2014-08-14 22:04:36.804029 (UTC-05:00) | 1984  | 7    | I |         No queued error event reports to transmit.
+2014-08-14 22:04:36.804029 (UTC-05:00) | 1984  | 7    | I |     }
+2014-08-14 22:04:36.804029 (UTC-05:00) | 1984  | 7    | I |     CoreEventReportTransmitter.TransmitQueuedHandledExceptionEventReports() {
+2014-08-14 22:04:36.804029 (UTC-05:00) | 1984  | 7    | I |         No queued handled exception event reports to transmit.
+2014-08-14 22:04:36.804029 (UTC-05:00) | 1984  | 7    | I |     }
+2014-08-14 22:04:36.804029 (UTC-05:00) | 1984  | 7    | I |     LastKnownBandwidth = 18533.7364400614
+2014-08-14 22:04:36.804029 (UTC-05:00) | 1984  | 7    | I | }
+--------- [ Thread 1 ] ----------------+-------+------+---+--->
+2014-08-14 22:04:37.241550 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:04:37.241550 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:04:37.241550 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\SWD#IP_TUNNEL_VBUS#ISATAP_0#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{044F2035-0E74-4E0C-A6A7-7F8FE5F6225E}   ??????  ??? ?@®I?
+2014-08-14 22:04:37.241550 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:04:37.241550 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:04:37.241550 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:04:37.241550 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:04:37.241550 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\SWD#IP_TUNNEL_VBUS#ISATAP_0#{cac88484-7515-4c03-82e6-71a87abac361}  ??????  ??¨¨ ?@º’?“??Ò«???????? ????Ÿæ?  ??’??Ò«áÈ^?Ò«  ¨¡ ?? 
+2014-08-14 22:04:37.241550 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:04:37.241550 (UTC-05:00) | 1984  | 1    | I |         }
+--------- [ Thread 4 ] ----------------+-------+------+---+--->
+2014-08-14 22:04:39.163614 (UTC-05:00) | 1984  | 4    | I | GInternet.OnIsConnectedChanged() {
+2014-08-14 22:04:39.163614 (UTC-05:00) | 1984  | 4    | I |     isConnected = True
+2014-08-14 22:04:39.163614 (UTC-05:00) | 1984  | 4    | I | }
+--------- [ Thread 1 ] ----------------+-------+------+---+--->
+2014-08-14 22:04:47.852982 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:04:47.852982 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:04:47.852982 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\SWD#IP_TUNNEL_VBUS#TEREDOTUNNELINGPSEUDOINTERFACE_0#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{1603C51A-3A74-41AE-B4C9-1EE28673
+2014-08-14 22:04:47.852982 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:04:47.852982 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:04:47.852982 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:04:47.852982 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:04:47.852982 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\SWD#IP_TUNNEL_VBUS#TEREDOTUNNELINGPSEUDOINTERFACE_0#{cac88484-7515-4c03-82e6-71a87abac361}  ??????  ??? ?@Üù?    ???Ò«  ¨¡ ³–?? 
+2014-08-14 22:04:47.852982 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:04:47.852982 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:06:31.754165 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:06:31.754165 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:06:31.754165 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\SWD#PRINTENUM#{9651629C-45E4-46CF-8002-EE1A0FA451FE}#{0ecef634-6ef0-472a-8085-5ad023ecbccd}   ??????    ??¨¡ ?@×º???Ò«  ?     
+2014-08-14 22:06:31.754165 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:06:31.754165 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:06:31.754165 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:06:31.754165 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:06:31.754165 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\SWD#PRINTENUM#{B4A89FF8-7EB6-426C-9852-83B3DB817A02}#{0ecef634-6ef0-472a-8085-5ad023ecbccd}   ??????    ??¨¡ ?@Ãl????ÍË????????
+2014-08-14 22:06:31.754165 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:06:31.754165 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:06:31.785416 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:06:31.785416 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:06:31.785416 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\SWD#PRINTENUM#{D943D8D8-F7EB-4400-8EEE-A8CFF8C894B5}#{0ecef634-6ef0-472a-8085-5ad023ecbccd}   ??©´???    ??¨¡ ?@Ý¨????Ò«  ¨¡ ³–?? 
+2014-08-14 22:06:31.785416 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:06:31.785416 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:06:31.785416 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:06:31.785416 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:06:31.785416 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\SWD#PRINTENUM#{9D7DBACD-D102-4149-B2DB-FFEC94371EAB}#{0ecef634-6ef0-472a-8085-5ad023ecbccd}   ??????    ??¨¡ ?@Æ‰????ÍË????????
+2014-08-14 22:06:31.785416 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:06:31.785416 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:06:48.867741 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:06:48.867741 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:06:48.867741 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\SWD#PRINTENUM#{3BD03D24-8870-4698-90EB-8AB9DE1DBDE2}#{0ecef634-6ef0-472a-8085-5ad023ecbccd}   ??????    ??¨¡ ?@Ãl????ÍË Í­²B    
+2014-08-14 22:06:48.867741 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:06:48.867741 (UTC-05:00) | 1984  | 1    | I |         }
+--------- [ Thread 8 ] ----------------+-------+------+---+--->
+2014-08-14 22:07:35.973767 (UTC-05:00) | 1984  | 8    | D | CoreDownloadManager.ScheduleTimer_Elapsed() {
+2014-08-14 22:07:35.973767 (UTC-05:00) | 1984  | 8    | I |     CoreDownloadManager.CheckIsScheduled() {
+2014-08-14 22:07:35.973767 (UTC-05:00) | 1984  | 8    | I |         IsScheduled = True
+2014-08-14 22:07:35.973767 (UTC-05:00) | 1984  | 8    | I |     }
+2014-08-14 22:07:35.973767 (UTC-05:00) | 1984  | 8    | D | }
+--------- [ Thread 1 ] ----------------+-------+------+---+--->
+2014-08-14 22:07:38.265284 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:07:38.265284 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:07:38.265284 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\HDAUDIO#FUNC_01&VEN_8086&DEV_2805&SUBSYS_80860101&REV_1000#4&76b923f&0&0301#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\IntcDAudW
+2014-08-14 22:07:38.265284 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:07:38.265284 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:07:38.266285 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:07:38.266285 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:07:38.266285 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\HDAUDIO#FUNC_01&VEN_8086&DEV_2805&SUBSYS_80860101&REV_1000#4&76b923f&0&0301#{65e8773e-8f56-11d0-a3b9-00a0c9223196}\IntcDAudW
+2014-08-14 22:07:38.266285 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:07:38.266285 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:07:38.266285 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:07:38.266285 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:07:38.266285 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\HDAUDIO#FUNC_01&VEN_8086&DEV_2805&SUBSYS_80860101&REV_1000#4&76b923f&0&0301#{eb115ffc-10c8-4964-831d-6dcb02e6f23f}\IntcDAudW
+2014-08-14 22:07:38.267285 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:07:38.267285 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:07:38.267285 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:07:38.267285 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:07:38.267285 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\HDAUDIO#FUNC_01&VEN_8086&DEV_2805&SUBSYS_80860101&REV_1000#4&76b923f&0&0301#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\IntcDAudT
+2014-08-14 22:07:38.267285 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:07:38.267285 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:07:38.267285 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:07:38.267285 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:07:38.267285 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\HDAUDIO#FUNC_01&VEN_8086&DEV_2805&SUBSYS_80860101&REV_1000#4&76b923f&0&0301#{dda54a40-1e4c-11d1-a050-405705c10000}\IntcDAudT
+2014-08-14 22:07:38.267285 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:07:38.267285 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:07:38.268286 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:07:38.268286 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:07:38.268286 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\PCI#VEN_8086&DEV_0102&SUBSYS_05271028&REV_09#3&11583659&0&10#{e6dfdc31-31d0-46ac-86af-da1eb05fc599}   ??????    ??? ?@°ò????çq
+2014-08-14 22:07:38.268286 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:07:38.268286 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:07:38.268286 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:07:38.268286 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:07:38.268286 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\DISPLAY#PRI0032#4&3881e16e&0&UID50529024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}   ?a?a?a    ??¨¨ ?@Âp????Ò«C:\WINDOWS\assembly\
+2014-08-14 22:07:38.268286 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:07:38.268286 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:07:38.274290 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:07:38.274290 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:07:38.274290 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\DISPLAY#PRI0032#4&3881e16e&0&UID50529024#{866519b5-3f07-4c97-b7df-24c5d8a8ccb8}   ?a?a?a    ??¨¨ ?@Üù????Ò«øµa ?]?? ?]?? ?]??
+2014-08-14 22:07:38.274290 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:07:38.274290 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:07:38.285297 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:07:38.285297 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:07:38.285297 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\SWD#MMDEVAPI#{0.0.0.00000000}.{3ad699d9-5cf4-4816-bbaf-d4d8f1aade65}#{e6327cad-dcec-4949-ae8a-991e976a79d2}   ú³?¯Ã?úµ?    ??? 
+2014-08-14 22:07:38.285297 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:07:38.285297 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:07:38.299307 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:07:38.300308 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:07:38.300308 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\SWD#PRINTENUM#{C2A95B3D-CD37-4925-B8E4-B3C413699ECB}#{0ecef634-6ef0-472a-8085-5ad023ecbccd}   ??????    ??¨¡ ?@Ãl???Ò«  ?     
+2014-08-14 22:07:38.300308 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:07:38.300308 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:07:38.399373 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:07:38.399373 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:07:38.399373 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\PCI#VEN_8086&DEV_0102&SUBSYS_05271028&REV_09#3&11583659&0&10#{e6dfdc31-31d0-46ac-86af-da1eb05fc599}   ??????    ??? ?@Ár????çq
+2014-08-14 22:07:38.399373 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:07:38.404377 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:07:38.405377 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:07:38.405377 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:07:38.405377 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\DISPLAY#PRI0032#4&3881e16e&0&UID50529024#{866519b5-3f07-4c97-b7df-24c5d8a8ccb8}   ?a?a?a    ??¨¨ ?@Æ‰????Ò«?a ?]à÷? ?]ÛØ? ?]ˆ[?
+2014-08-14 22:07:38.405377 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:07:38.405377 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:07:38.405377 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:07:38.405377 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:07:38.405377 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\DISPLAY#PRI0032#4&3881e16e&0&UID50529024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}   ?a?a?a    ??¨¨ ?@×º????Ò«?a ?]à÷? ?]ÛØ? ?]ˆ[?
+2014-08-14 22:07:38.405377 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:07:38.405377 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:07:38.583496 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:07:38.583496 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:07:38.583496 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\HDAUDIO#FUNC_01&VEN_8086&DEV_2805&SUBSYS_80860101&REV_1000#4&76b923f&0&0301#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\IntcDAudT
+2014-08-14 22:07:38.583496 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:07:38.583496 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:07:38.583496 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:07:38.583496 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:07:38.583496 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\HDAUDIO#FUNC_01&VEN_8086&DEV_2805&SUBSYS_80860101&REV_1000#4&76b923f&0&0301#{dda54a40-1e4c-11d1-a050-405705c10000}\IntcDAudT
+2014-08-14 22:07:38.583496 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:07:38.583496 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:07:38.587497 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:07:38.587497 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:07:38.587497 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\HDAUDIO#FUNC_01&VEN_8086&DEV_2805&SUBSYS_80860101&REV_1000#4&76b923f&0&0301#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\IntcDAudW
+2014-08-14 22:07:38.587497 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:07:38.587497 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:07:38.593502 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:07:38.594502 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:07:38.594502 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\HDAUDIO#FUNC_01&VEN_8086&DEV_2805&SUBSYS_80860101&REV_1000#4&76b923f&0&0301#{65e8773e-8f56-11d0-a3b9-00a0c9223196}\IntcDAudW
+2014-08-14 22:07:38.594502 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:07:38.594502 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:07:38.602507 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:07:38.602507 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:07:38.602507 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\PCI#VEN_8086&DEV_0102&SUBSYS_05271028&REV_09#3&11583659&0&10#{e6dfdc31-31d0-46ac-86af-da1eb05fc599}   ??????    ??? ?@Üù????Ò«
+2014-08-14 22:07:38.602507 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:07:38.602507 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:07:38.602507 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:07:38.602507 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:07:38.602507 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\HDAUDIO#FUNC_01&VEN_8086&DEV_2805&SUBSYS_80860101&REV_1000#4&76b923f&0&0301#{eb115ffc-10c8-4964-831d-6dcb02e6f23f}\IntcDAudW
+2014-08-14 22:07:38.602507 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:07:38.602507 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:07:38.635529 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:07:38.635529 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:07:38.635529 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\SWD#MMDEVAPI#{0.0.0.00000000}.{3ad699d9-5cf4-4816-bbaf-d4d8f1aade65}#{e6327cad-dcec-4949-ae8a-991e976a79d2}   ¦D?£Z?¦F?    ??? 
+2014-08-14 22:07:38.635529 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:07:38.635529 (UTC-05:00) | 1984  | 1    | I |         }
+--------- [ Thread 7 ] ----------------+-------+------+---+--->
+2014-08-14 22:26:43.038989 (UTC-05:00) | 1984  | 7    | I | CoreUpdateManager.AutoStartTimer_Elapsed() {
+2014-08-14 22:26:43.038989 (UTC-05:00) | 1984  | 7    | I |     Getting new updates for device: 3835173793
+2014-08-14 22:26:43.042991 (UTC-05:00) | 1984  | 7    | I |     CoreUpdateManager.GetMapUpdates() {
+2014-08-14 22:26:43.042991 (UTC-05:00) | 1984  | 7    | I |         unitId = 3835173793
+2014-08-14 22:26:43.042991 (UTC-05:00) | 1984  | 7    | I |         cacheBehavior = CacheOrServer
+2014-08-14 22:26:43.042991 (UTC-05:00) | 1984  | 7    | I |         Map update auto checks are disabled for this device until 8/30/2014 3:50:34 PM.
+2014-08-14 22:26:43.044992 (UTC-05:00) | 1984  | 7    | I |         Restoring details of persisted map updates.
+2014-08-14 22:26:43.045992 (UTC-05:00) | 1984  | 7    | I |         CoreUpdateManager.RestoreAllMapUpdateDetailsFromServer() {
+2014-08-14 22:26:43.045992 (UTC-05:00) | 1984  | 7    | I |             Restoring details of persisted map updates.
+2014-08-14 22:26:43.085018 (UTC-05:00) | 1984  | 7    | I |             CoreProtobufService.RetrieveMapUpdateDetails() {
+2014-08-14 22:26:43.140054 (UTC-05:00) | 1984  | 7    | I |                 Performing Protobuf request: http://omt.garmin.com/Rce/ProtobufApi/MapUpdateService/GetDownloadDetails
+2014-08-14 22:26:43.632380 (UTC-05:00) | 1984  | 7    | I |                 CoreFile.LoadFilesFromManifestUrl() {
+2014-08-14 22:26:43.632380 (UTC-05:00) | 1984  | 7    | I |                     Loading elements from manifest url: http://download.garmin.com/RMU/_download_manifests/NA/2015_10/ComputerInstallManifest_r.xml
+2014-08-14 22:26:44.042653 (UTC-05:00) | 1984  | 7    | I |                     Parsed 242 manifest elements.
+2014-08-14 22:26:44.042653 (UTC-05:00) | 1984  | 7    | I |                 }
+2014-08-14 22:26:44.052659 (UTC-05:00) | 1984  | 7    | I |             }
+2014-08-14 22:26:44.053659 (UTC-05:00) | 1984  | 7    | I |             Added a new available update: MAP-3835173793-NA-2015-10
+2014-08-14 22:26:44.055661 (UTC-05:00) | 1984  | 7    | I |             CoreWcfService.OnUpdateStatusChanged() {
+2014-08-14 22:26:44.055661 (UTC-05:00) | 1984  | 7    | I |                 key = "MAP-3835173793-NA-2015-10"
+2014-08-14 22:26:44.055661 (UTC-05:00) | 1984  | 7    | I |                 status = {
+2014-08-14 22:26:44.055661 (UTC-05:00) | 1984  | 7    | I |                     Stage = Available
+2014-08-14 22:26:44.055661 (UTC-05:00) | 1984  | 7    | I |                     StageStatus = <null>
+2014-08-14 22:26:44.055661 (UTC-05:00) | 1984  | 7    | I |                     IsActive = False
+2014-08-14 22:26:44.055661 (UTC-05:00) | 1984  | 7    | I |                 }
+2014-08-14 22:26:44.056661 (UTC-05:00) | 1984  | 7    | I |             }
+2014-08-14 22:26:44.112699 (UTC-05:00) | 1984  | 7    | I |         }
+2014-08-14 22:26:44.112699 (UTC-05:00) | 1984  | 7    | I |     }
+2014-08-14 22:26:44.113699 (UTC-05:00) | 1984  | 7    | I |     Auto-starting updates:
+2014-08-14 22:26:44.113699 (UTC-05:00) | 1984  | 7    | D |     CoreUpdateManager.GetNextAutoStartInterval() {
+2014-08-14 22:26:44.113699 (UTC-05:00) | 1984  | 7    | D |         startAtNextHour = True
+2014-08-14 22:26:44.113699 (UTC-05:00) | 1984  | 7    | D |         timeToNextUnit = 00:33:15.8863002
+2014-08-14 22:26:44.113699 (UTC-05:00) | 1984  | 7    | D |         random = 00:16:51.3770000
+2014-08-14 22:26:44.113699 (UTC-05:00) | 1984  | 7    | D |         interval = 00:50:07.2630000
+2014-08-14 22:26:44.113699 (UTC-05:00) | 1984  | 7    | D |     }
+2014-08-14 22:26:44.113699 (UTC-05:00) | 1984  | 7    | I | }
+--------- [ Thread 1 ] ----------------+-------+------+---+--->
+2014-08-14 22:28:21.301026 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:28:21.301026 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:28:21.301026 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\SWD#DAFUPnPProvider#uuid:04f735f6-935b-4e64-954d-c241b7a75680#{2a323d9d-edf1-430b-ab95-5860894493d4}  ??????    ??? ?@ÈL?ÀÊ??çq
+2014-08-14 22:28:21.301026 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:28:21.301026 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:28:21.301026 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:28:21.301026 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:28:21.301026 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\SWD#DAFUPnPProvider#uuid:04f735f6-935b-4e64-954d-c241b7a75680#{c96037ae-a558-4470-b432-115a31b85553}  £¼???£¼?    ??? ?@Ås??6?ÍË
+2014-08-14 22:28:21.301026 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:28:21.301026 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:28:21.302027 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:28:21.302027 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:28:21.302027 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\SWD#DAFUPnPProvider#uuid:04f735f6-935b-4e64-954d-c241b7a75680#{8b7780be-bf63-564f-83b6-719f86ef2a83}  £¼???£¼?    ??? ?@Ås??6?ÍË
+2014-08-14 22:28:21.302027 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:28:21.302027 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:28:21.302027 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:28:21.302027 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:28:21.302027 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\SWD#DAFUPnPProvider#uuid:04f735f6-935b-4e64-954d-c241b7a75680#{575d078a-63b9-5bc0-958b-87cc35b279cc}  ??????    ??? ?@Üù?ÀÊ??çq
+2014-08-14 22:28:21.302027 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:28:21.302027 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 22:28:21.303027 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 22:28:21.303027 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 22:28:21.303027 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\SWD#DAFUPnPProvider#uuid:04f735f6-935b-4e64-954d-c241b7a75680#{ae9eb9c4-8819-51d8-879d-9a42ffb89d4e}  ??????    ??? ?@Âp?ÀÊ??çq
+2014-08-14 22:28:21.303027 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 22:28:21.303027 (UTC-05:00) | 1984  | 1    | I |         }
+--------- [ Thread 16 ] ---------------+-------+------+---+--->
+2014-08-14 23:00:30.011601 (UTC-05:00) | 1984  | 16   | D | CoreDownloadManager.ScheduleTimer_Elapsed() {
+2014-08-14 23:00:30.011601 (UTC-05:00) | 1984  | 16   | I |     CoreDownloadManager.CheckIsScheduled() {
+2014-08-14 23:00:30.011601 (UTC-05:00) | 1984  | 16   | I |         IsScheduled = True
+2014-08-14 23:00:30.011601 (UTC-05:00) | 1984  | 16   | I |     }
+2014-08-14 23:00:30.011601 (UTC-05:00) | 1984  | 16   | D | }
+--------- [ Thread 6 ] ----------------+-------+------+---+--->
+2014-08-14 23:16:51.377148 (UTC-05:00) | 1984  | 6    | I | CoreUpdateManager.AutoStartTimer_Elapsed() {
+2014-08-14 23:16:51.377148 (UTC-05:00) | 1984  | 6    | I |     Getting new updates for device: 3835173793
+2014-08-14 23:16:51.377148 (UTC-05:00) | 1984  | 6    | I |     CoreUpdateManager.GetMapUpdates() {
+2014-08-14 23:16:51.377148 (UTC-05:00) | 1984  | 6    | I |         unitId = 3835173793
+2014-08-14 23:16:51.377148 (UTC-05:00) | 1984  | 6    | I |         cacheBehavior = CacheOrServer
+2014-08-14 23:16:51.377148 (UTC-05:00) | 1984  | 6    | I |         Map update auto checks are disabled for this device until 8/30/2014 3:50:34 PM.
+2014-08-14 23:16:51.377148 (UTC-05:00) | 1984  | 6    | I |     }
+2014-08-14 23:16:51.377148 (UTC-05:00) | 1984  | 6    | I |     Auto-starting updates:
+2014-08-14 23:16:51.377148 (UTC-05:00) | 1984  | 6    | D |     CoreUpdateManager.GetNextAutoStartInterval() {
+2014-08-14 23:16:51.377148 (UTC-05:00) | 1984  | 6    | D |         startAtNextHour = True
+2014-08-14 23:16:51.377148 (UTC-05:00) | 1984  | 6    | D |         timeToNextUnit = 00:43:08.6228517
+2014-08-14 23:16:51.377148 (UTC-05:00) | 1984  | 6    | D |         random = 00:09:13.8820000
+2014-08-14 23:16:51.377148 (UTC-05:00) | 1984  | 6    | D |         interval = 00:52:22.5040000
+2014-08-14 23:16:51.377148 (UTC-05:00) | 1984  | 6    | D |     }
+2014-08-14 23:16:51.377148 (UTC-05:00) | 1984  | 6    | I | }
+--------- [ Thread 19 ] ---------------+-------+------+---+--->
+2014-08-14 23:29:16.769508 (UTC-05:00) | 1984  | 19   | I | CoreEventReportTransmitter.TransmitAllQueuedEventReports() {
+2014-08-14 23:29:16.769508 (UTC-05:00) | 1984  | 19   | I |     CoreEventReportTransmitter.TransmitQueuedErrorEventReports() {
+2014-08-14 23:29:16.769508 (UTC-05:00) | 1984  | 19   | I |         No queued error event reports to transmit.
+2014-08-14 23:29:16.769508 (UTC-05:00) | 1984  | 19   | I |     }
+2014-08-14 23:29:16.770509 (UTC-05:00) | 1984  | 19   | I |     CoreEventReportTransmitter.TransmitQueuedAnalyticEventReports() {
+2014-08-14 23:29:16.792523 (UTC-05:00) | 1984  | 19   | I |         Transmitting analytic event report: \Queued_2014-08-14_17-33-15_380716_CoreService_Launch_Unspecified
+2014-08-14 23:29:16.804531 (UTC-05:00) | 1984  | 19   | I |         CoreProtobufService.TransmitAnalyticEventReports() {
+2014-08-14 23:29:16.807533 (UTC-05:00) | 1984  | 19   | I |             Performing Protobuf request: http://omt.garmin.com/Rce/ProtobufApi/ApplicationService/ReportAnalyticEvent
+2014-08-14 23:29:16.963637 (UTC-05:00) | 1984  | 19   | I |         }
+2014-08-14 23:29:16.965638 (UTC-05:00) | 1984  | 19   | I |         Transmitting analytic event report: \Queued_2014-08-14_22-04-34_928942_CoreService_Launch_Unspecified
+2014-08-14 23:29:16.967639 (UTC-05:00) | 1984  | 19   | I |         CoreProtobufService.TransmitAnalyticEventReports() {
+2014-08-14 23:29:16.967639 (UTC-05:00) | 1984  | 19   | I |             Performing Protobuf request: http://omt.garmin.com/Rce/ProtobufApi/ApplicationService/ReportAnalyticEvent
+2014-08-14 23:29:17.075711 (UTC-05:00) | 1984  | 19   | I |         }
+2014-08-14 23:29:17.076711 (UTC-05:00) | 1984  | 19   | I |     }
+2014-08-14 23:29:17.076711 (UTC-05:00) | 1984  | 19   | I |     CoreEventReportTransmitter.TransmitQueuedHandledExceptionEventReports() {
+2014-08-14 23:29:17.078713 (UTC-05:00) | 1984  | 19   | I |         No queued handled exception event reports to transmit.
+2014-08-14 23:29:17.078713 (UTC-05:00) | 1984  | 19   | I |     }
+2014-08-14 23:29:17.078713 (UTC-05:00) | 1984  | 19   | I | }
+--------- [ Thread 1 ] ----------------+-------+------+---+--->
+2014-08-14 23:37:16.203836 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 23:37:16.203836 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 23:37:16.839256 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 23:37:16.839256 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 23:55:58.848894 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 23:55:58.848894 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 23:55:58.848894 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\PCI#VEN_8086&DEV_0102&SUBSYS_05271028&REV_09#3&11583659&0&10#{e6dfdc31-31d0-46ac-86af-da1eb05fc599}   £º???£¼?    ??? ?@ÈL??6?ÍË
+2014-08-14 23:55:58.848894 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 23:55:58.848894 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 23:57:13.342199 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 23:57:13.342199 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 23:57:13.342199 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\PCI#VEN_8086&DEV_0102&SUBSYS_05271028&REV_09#3&11583659&0&10#{e6dfdc31-31d0-46ac-86af-da1eb05fc599}   £º???£¼?    ??? ?@Üù??6?ÍË
+2014-08-14 23:57:13.342199 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 23:57:13.342199 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 23:57:13.363212 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 23:57:13.363212 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 23:57:13.363212 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\PCI#VEN_8086&DEV_0102&SUBSYS_05271028&REV_09#3&11583659&0&10#{e6dfdc31-31d0-46ac-86af-da1eb05fc599}   £º???£¼?    ??? ?@Ý¨??6?ÍË
+2014-08-14 23:57:13.363212 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 23:57:13.363212 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-14 23:57:28.184864 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-14 23:57:28.184864 (UTC-05:00) | 1984  | 1    | I |             DeviceNotifier_Release.NotifyDeviceEvent() {
+2014-08-14 23:57:28.184864 (UTC-05:00) | 1984  | 1    | I |                 Ignoring non-Garmin device \\?\USB#VID_0424&PID_2514#6&cf264f&0&4#{f18a0e88-c30c-11d0-8815-00a0c906bed8}   ??????  ??? ?@Ä?«K??Ò«                            
+2014-08-14 23:57:28.184864 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-14 23:57:28.184864 (UTC-05:00) | 1984  | 1    | I |         }
+--------- [ Thread 17 ] ---------------+-------+------+---+--->
+2014-08-15 00:00:30.005207 (UTC-05:00) | 1984  | 17   | D | CoreDownloadManager.ScheduleTimer_Elapsed() {
+2014-08-15 00:00:30.005207 (UTC-05:00) | 1984  | 17   | I |     CoreDownloadManager.CheckIsScheduled() {
+2014-08-15 00:00:30.005207 (UTC-05:00) | 1984  | 17   | I |         IsScheduled = True
+2014-08-15 00:00:30.005207 (UTC-05:00) | 1984  | 17   | I |     }
+2014-08-15 00:00:30.005207 (UTC-05:00) | 1984  | 17   | D | }
+--------- [ Thread 16 ] ---------------+-------+------+---+--->
+2014-08-15 00:09:13.892958 (UTC-05:00) | 1984  | 16   | I | CoreUpdateManager.AutoStartTimer_Elapsed() {
+2014-08-15 00:09:13.892958 (UTC-05:00) | 1984  | 16   | I |     Getting new updates for device: 3835173793
+2014-08-15 00:09:13.892958 (UTC-05:00) | 1984  | 16   | I |     CoreUpdateManager.GetMapUpdates() {
+2014-08-15 00:09:13.892958 (UTC-05:00) | 1984  | 16   | I |         unitId = 3835173793
+2014-08-15 00:09:13.892958 (UTC-05:00) | 1984  | 16   | I |         cacheBehavior = CacheOrServer
+2014-08-15 00:09:13.892958 (UTC-05:00) | 1984  | 16   | I |         Map update auto checks are disabled for this device until 8/30/2014 3:50:34 PM.
+2014-08-15 00:09:13.892958 (UTC-05:00) | 1984  | 16   | I |     }
+2014-08-15 00:09:13.892958 (UTC-05:00) | 1984  | 16   | I |     Auto-starting updates:
+2014-08-15 00:09:13.892958 (UTC-05:00) | 1984  | 16   | D |     CoreUpdateManager.GetNextAutoStartInterval() {
+2014-08-15 00:09:13.892958 (UTC-05:00) | 1984  | 16   | D |         startAtNextHour = True
+2014-08-15 00:09:13.892958 (UTC-05:00) | 1984  | 16   | D |         timeToNextUnit = 00:50:46.1070419
+2014-08-15 00:09:13.892958 (UTC-05:00) | 1984  | 16   | D |         random = 00:22:03.1690000
+2014-08-15 00:09:13.892958 (UTC-05:00) | 1984  | 16   | D |         interval = 01:12:49.2760000
+2014-08-15 00:09:13.892958 (UTC-05:00) | 1984  | 16   | D |     }
+2014-08-15 00:09:13.892958 (UTC-05:00) | 1984  | 16   | I | }
+--------- [ Thread 1 ] ----------------+-------+------+---+--->
+2014-08-15 00:24:56.147491 (UTC-05:00) | 1984  | 1    | I |         ServiceMain.HandleServiceEvent() {
+2014-08-15 00:24:56.147491 (UTC-05:00) | 1984  | 1    | I |             Received stop or shutdown message
+2014-08-15 00:24:56.147491 (UTC-05:00) | 1984  | 1    | I |             ServiceMain.OnStop() {
+2014-08-15 00:24:56.147491 (UTC-05:00) | 1984  | 1    | I |                 CoreWcfService.Stop() {
+2014-08-15 00:24:56.147491 (UTC-05:00) | 1984  | 1    | I |                     Closing WCF Service. [43954668]
+2014-08-15 00:24:56.147491 (UTC-05:00) | 1984  | 1    | I |                     Program.Save() {
+2014-08-15 00:24:56.241246 (UTC-05:00) | 1984  | 1    | I |                     }
+2014-08-15 00:24:56.241246 (UTC-05:00) | 1984  | 1    | I |                     CoreDownloadManager.Shutdown() {
+2014-08-15 00:24:56.256871 (UTC-05:00) | 1984  | 1    | I |                         CoreDownloadManager.CancelActiveDownload() {
+2014-08-15 00:24:56.256871 (UTC-05:00) | 1984  | 1    | I |                             returnToQueue = False
+2014-08-15 00:24:56.256871 (UTC-05:00) | 1984  | 1    | I |                         }
+2014-08-15 00:24:56.272497 (UTC-05:00) | 1984  | 1    | I |                     }
+2014-08-15 00:24:56.272497 (UTC-05:00) | 1984  | 1    | I |                 }
+2014-08-15 00:24:56.272497 (UTC-05:00) | 1984  | 1    | I |             }
+2014-08-15 00:24:56.272497 (UTC-05:00) | 1984  | 1    | I |         }
+2014-08-15 00:24:56.272497 (UTC-05:00) | 1984  | 1    | I |     }
+2014-08-15 00:24:56.272497 (UTC-05:00) | 1984  | 1    | I | }
+--------- [ Thread 9 ] ----------------+-------+------+---+--->
+2014-08-15 00:24:56.553760 (UTC-05:00) | 1984  | 9    | I | }

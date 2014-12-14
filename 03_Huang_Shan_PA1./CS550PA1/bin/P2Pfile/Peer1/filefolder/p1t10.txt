@@ -1,0 +1,1967 @@
+000000.000|    9328.0000kb|   9328.0000kb added| ALWAYS| Logging started at 2014-08-15T20:59:19.641
+000000.001|    9340.0000kb|     12.0000kb added| ALWAYS| Loading RADS dynamic library: D:\Riot Games\League of Legends\RADS\RiotRadsIO.dll
+000000.002|    9720.0000kb|    380.0000kb added|   OKAY| Riot::RADS::Reader::RadsExportsMain::Initialize: RADS library initializing with specified working directory "D:\Riot Games\League of Legends\RADS\solutions\lol_game_client_sln\releases\0.0.1.50\deploy".
+000000.002|    9744.0000kb|     24.0000kb added|   OKAY| Riot::RADS::Reader::RuntimeEnvironment::Create: Creating RADS runtime environment: RADS root directory = "D:/Riot Games/League of Legends/RADS"
+000000.002|    9768.0000kb|     24.0000kb added|   OKAY| Riot::RADS::Reader::SolutionManifest::Load: ("D:/Riot Games/League of Legends/RADS/solutions/lol_game_client_sln/releases/0.0.1.50/solutionmanifest")
+000000.003|    9808.0000kb|     40.0000kb added|   OKAY| Riot::RADS::Reader::ConfigurationManifest::Load: ("D:/Riot Games/League of Legends/RADS/solutions/lol_game_client_sln/releases/0.0.1.50/configurationmanifest")
+000000.003|    9816.0000kb|      8.0000kb added|   OKAY| Riot::RADS::Reader::ReleaseManifest::LoadInternal: ("D:/Riot Games/League of Legends/RADS/projects/lol_game_client_en_us/releases/0.0.0.233/releasemanifest")
+000000.016|    9944.0000kb|    128.0000kb added|   OKAY| Riot::RADS::Reader::ReleaseManifest::LoadInternal: ("D:/Riot Games/League of Legends/RADS/projects/lol_game_client/releases/0.0.0.245/releasemanifest")
+000000.319|   16912.0000kb|   6968.0000kb added| ALWAYS| Loaded RADS dynamic library: D:\Riot Games\League of Legends\RADS\RiotRadsIO.dll
+000000.338|   43852.0000kb|  26940.0000kb added|   OKAY| Unable to process data overlay file ./ToolsConfig.xml, defaulting to overlay now
+000000.338|   43852.0000kb|      0.0000kb added| ALWAYS| Data overlay start folder initialized to DATA, Content/Src
+000000.338|   44148.0000kb|    296.0000kb added| ALWAYS| Global logging level set to   WARN
+000000.339|   44224.0000kb|     76.0000kb added| ALWAYS| Build Version: Version 4.14.0.351 (Aug  8 2014/17:20:43) [PUBLIC] <Releases/4.14> ChangeList: 668992
+000000.606|   58640.0000kb|  14416.0000kb added| ALWAYS| Started System Init
+000000.607|   58680.0000kb|     40.0000kb added| ALWAYS| Maestro Init
+000000.642|   58904.0000kb|    224.0000kb added| ALWAYS| Maestro completed init
+000000.642|   58912.0000kb|      8.0000kb added| ALWAYS| zip manifest, 'ClientZips.txt', not found (expected).
+000000.651|   59840.0000kb|    928.0000kb added| ALWAYS| StartSession called
+000000.651|   59840.0000kb|      0.0000kb added| ALWAYS| Started Init event arguments
+000000.651|   59976.0000kb|    136.0000kb added| ALWAYS| Waiting until connection...
+000000.766|   68044.0000kb|   8068.0000kb added| ALWAYS| InitRenderer() enter
+000000.766|   68212.0000kb|    168.0000kb added| ALWAYS| r3dRenderLayer::Init(0x000c078c) enter
+000000.780|   74212.0000kb|   6000.0000kb added| ALWAYS| r3dRenderLayer::Init() exit successfully
+000000.908|   83152.0000kb|   8940.0000kb added| ALWAYS| Loaded locale en_US via fontconfig
+000000.913|   79508.0000kb|  -3644.0000kb added| ALWAYS| IME file, 'D:/Riot Games/League of Legends/RADS/solutions/lol_game_client_sln/releases/0.0.1.50/deploy/Data/Menu/IMEConfig.xml', is optional. The following error is expected.
+000000.915|   79592.0000kb|     84.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "D:/Riot Games/League of Legends/RADS/solutions/lol_game_client_sln/releases/0.0.1.50/deploy/Data/Menu/IMEConfig.xml" because it's not in the manifest.
+000000.915|   79600.0000kb|      8.0000kb added|  ERROR| Missing file on r3dGFile open :D:/Riot Games/League of Legends/RADS/solutions/lol_game_client_sln/releases/0.0.1.50/deploy/Data/Menu/IMEConfig.xml
+000000.924|   79700.0000kb|    100.0000kb added| ALWAYS| SharedConfigPath: D:\Riot Games\League of Legends\RADS\projects/lol_air_client/releases/0.0.1.104/deploy/preferences/
+000000.926|   79824.0000kb|    124.0000kb added| ALWAYS| r3dRenderLayer::SetMode(XRes = 1920, YRes = 1080, BPP = 32,  Flags=0) enter
+000000.926|   79824.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::SetMode: Creating d3d device
+000001.152|   96804.0000kb|  16980.0000kb added| ALWAYS| r3dRenderLayer::SetMode: Initialize shaders for current rendering path
+000001.361|  100040.0000kb|   3236.0000kb added| ALWAYS| r3dRenderLayer::RecreateOwnedResources
+000001.546|  100508.0000kb|    468.0000kb added| ALWAYS| OS Version String: 8.1  Professional, x64
+000001.546|  100552.0000kb|     44.0000kb added| ALWAYS| CPU: GenuineIntel, Intel(R) Core(TM) i5-2320 CPU @ 3.00GHz, Intel64 Family 6 Model 42 Stepping 7, 2993 (0 core)
+000001.546|  100560.0000kb|      8.0000kb added| ALWAYS| Measured processor speed: 3028
+000001.546|  100560.0000kb|      0.0000kb added| ALWAYS| Display info: Intel(R) HD Graphics 2210398208 9.17.10.3347
+000001.546|  100584.0000kb|     24.0000kb added| ALWAYS| Physical memory: 17179869184
+000001.546|  100632.0000kb|     48.0000kb added| ALWAYS| {"messageType":"hardware_information","message_body":"Hardware Info","operating_system":"8.1  Professional, x64","cpu":"GenuineIntel","cpu_processor":"Intel(R) Core(TM) i5-2320 CPU @ 3.00GHz","cpu_identifier":"Intel64 Family 6 Model 42 Stepping 7","cpu_topology":4,"gpu":"Intel(R) HD Graphics","video_memory":"2210398208","driver_version":"9.17.10.3347","physical_memory":17179869184}
+000001.546|  100632.0000kb|      0.0000kb added| ALWAYS| -----HARDWARE INFORMATION START-----
+000001.546|  100632.0000kb|      0.0000kb added| ALWAYS| Operating System: 8.1  Professional, x64
+000001.546|  100632.0000kb|      0.0000kb added| ALWAYS| GPU Manufacturer: Intel(R) HD Graphics
+000001.546|  100632.0000kb|      0.0000kb added| ALWAYS| GPU Memory: 2210398208
+000001.546|  100632.0000kb|      0.0000kb added| ALWAYS| GPU Driver Version: 9.17.10.3347
+000001.546|  100632.0000kb|      0.0000kb added| ALWAYS| CPU Brand: GenuineIntel
+000001.546|  100632.0000kb|      0.0000kb added| ALWAYS| CPU Processor Name: Intel(R) Core(TM) i5-2320 CPU @ 3.00GHz
+000001.546|  100632.0000kb|      0.0000kb added| ALWAYS| CPU Identifier: Intel64 Family 6 Model 42 Stepping 7
+000001.546|  100636.0000kb|      4.0000kb added| ALWAYS| CPU Speed: 2993
+000001.546|  100636.0000kb|      0.0000kb added| ALWAYS| CPU Topology: 4 Core
+000001.547|  100636.0000kb|      0.0000kb added| ALWAYS| Physical memory: 17179869184
+000001.547|  100636.0000kb|      0.0000kb added| ALWAYS| -----HARDWARE INFORMATION END-----
+000001.686|  102716.0000kb|   2080.0000kb added| ALWAYS| r3dRenderLayer::SetMode exit successfully
+000001.687|  102836.0000kb|    120.0000kb added| ALWAYS| In Riot::Win::Resize: Resizing the window and retrieving monitor info
+000001.687|  102836.0000kb|      0.0000kb added| ALWAYS| In Riot::Win::Resize: Initial VideoMode(6161200) and resolution (1920 x 1080) 
+000001.687|  102836.0000kb|      0.0000kb added| ALWAYS| In Riot::Win::Resize: VideoMode(6161200) and resolution (960 x 540) 
+000001.697|  103540.0000kb|    704.0000kb added| ALWAYS| In Riot::Win::Resize: Resized window to resolution 1920x1080
+000001.741|  106512.0000kb|   2972.0000kb added| ALWAYS| Waiting for client ID
+000001.942|  106532.0000kb|     20.0000kb added| ALWAYS| {"messageType":"riot__game_client__connection_info","message_body":"Hard Connect"}
+000001.942|  106532.0000kb|      0.0000kb added| ALWAYS| Received client ID
+000001.943|  106400.0000kb|   -132.0000kb added| ALWAYS| Set focus to app
+000001.943|  106400.0000kb|      0.0000kb added| ALWAYS| Input started
+000001.966|  106344.0000kb|    -56.0000kb added| ALWAYS| Query Status Req started
+000001.976|  106360.0000kb|     16.0000kb added| ALWAYS| Receiving PKT_World_SendGameNumber, GameID: 0000000059279199
+000002.119|  106364.0000kb|      4.0000kb added| ALWAYS| Query Status Req ended
+000002.119|  106364.0000kb|      0.0000kb added| ALWAYS| Waiting for server response...
+000002.321|  106368.0000kb|      4.0000kb added| ALWAYS| Receiving PKT_SynchVersionS2C_s, Server :Version 4.14.0.351 [PUBLIC]
+000003.341|  107472.0000kb|   1104.0000kb added| ALWAYS| Player assigned to AB Group: Everything
+000003.341|  107472.0000kb|      0.0000kb added| ALWAYS| Initializing GameModeComponents for mode=CLASSIC.
+000003.341|  107472.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = CLASSIC.
+000003.341|  107516.0000kb|     44.0000kb added| ALWAYS| netUID: 2 defaultname
+000003.361|  107580.0000kb|     64.0000kb added| ALWAYS| PlayGame Started
+000004.043|  114140.0000kb|   6560.0000kb added| ALWAYS| PlayGame Entered
+000004.043|  114224.0000kb|     84.0000kb added| ALWAYS| gRenderPipeline
+000004.054|  115580.0000kb|   1356.0000kb added| ALWAYS| CreateParticleSystemManager
+000004.589|  116452.0000kb|    872.0000kb added| ALWAYS| CreateAudioManager: Create audio manager Wwise.
+000005.607|  202004.0000kb|  85552.0000kb added|  ERROR| Can not open file <nexus_diff.dds> *********
+000005.607|  202004.0000kb|      0.0000kb added|  ERROR| Failed to load nexus_diff.dds
+000005.607|  202004.0000kb|      0.0000kb added|   WARN| r3dTexture EX: nexus_diff.dds - not found. Dummy texture created.
+000005.607|  202004.0000kb|      0.0000kb added|  ERROR| Can not open file <chaos_nexus_diff.dds> *********
+000005.607|  202004.0000kb|      0.0000kb added|  ERROR| Failed to load chaos_nexus_diff.dds
+000005.607|  202004.0000kb|      0.0000kb added|   WARN| r3dTexture EX: chaos_nexus_diff.dds - not found. Dummy texture created.
+000005.607|  202004.0000kb|      0.0000kb added|  ERROR| Can not open file <inhibitor_diff.dds> *********
+000005.607|  202004.0000kb|      0.0000kb added|  ERROR| Failed to load inhibitor_diff.dds
+000005.607|  202004.0000kb|      0.0000kb added|   WARN| r3dTexture EX: inhibitor_diff.dds - not found. Dummy texture created.
+000005.607|  202004.0000kb|      0.0000kb added|  ERROR| Can not open file <chaos_inhibitor_diff.dds> *********
+000005.607|  202004.0000kb|      0.0000kb added|  ERROR| Failed to load chaos_inhibitor_diff.dds
+000005.607|  202004.0000kb|      0.0000kb added|   WARN| r3dTexture EX: chaos_inhibitor_diff.dds - not found. Dummy texture created.
+000005.607|  202004.0000kb|      0.0000kb added|  ERROR| Can not open file <grass_ground_new_dark.dds> *********
+000005.607|  202004.0000kb|      0.0000kb added|  ERROR| Failed to load grass_ground_new_dark.dds
+000005.607|  202004.0000kb|      0.0000kb added|   WARN| r3dTexture EX: grass_ground_new_dark.dds - not found. Dummy texture created.
+000006.042|  222780.0000kb|  20776.0000kb added|  ERROR| Can not open file <TurretFortification.dds> *********
+000006.042|  222780.0000kb|      0.0000kb added|  ERROR| Failed to load TurretFortification.dds
+000006.042|  222780.0000kb|      0.0000kb added|   WARN| r3dTexture EX: TurretFortification.dds - not found. Dummy texture created.
+000006.079|  225108.0000kb|   2328.0000kb added|  ERROR| Can not open file <TurretInitialArmor.dds> *********
+000006.079|  225108.0000kb|      0.0000kb added|  ERROR| Failed to load TurretInitialArmor.dds
+000006.079|  225108.0000kb|      0.0000kb added|   WARN| r3dTexture EX: TurretInitialArmor.dds - not found. Dummy texture created.
+000008.763|  278412.0000kb|  53304.0000kb added| ALWAYS| GameWorld.Update()
+000008.763|  278412.0000kb|      0.0000kb added| ALWAYS| Begin Game Object Update
+000009.013|  290688.0000kb|  12276.0000kb added| ALWAYS| End Game Object Update
+000009.257|  303672.0000kb|  12984.0000kb added|  ERROR| Can not open file <Summoner_fortify.dds> *********
+000009.258|  303672.0000kb|      0.0000kb added|  ERROR| Failed to load Summoner_fortify.dds
+000009.258|  303672.0000kb|      0.0000kb added|   WARN| r3dTexture EX: Summoner_fortify.dds - not found. Dummy texture created.
+000009.367|  308748.0000kb|   5076.0000kb added|  ERROR| Can not open file <2051_Guardians_Horn_Counter.dds> *********
+000009.367|  308748.0000kb|      0.0000kb added|  ERROR| Failed to load 2051_Guardians_Horn_Counter.dds
+000009.367|  308748.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 2051_Guardians_Horn_Counter.dds - not found. Dummy texture created.
+000009.372|  309188.0000kb|    440.0000kb added|  ERROR| Can not open file <055_Borses_Staff_of_Apocalypse.tga> *********
+000009.372|  309188.0000kb|      0.0000kb added|  ERROR| Failed to load 055_Borses_Staff_of_Apocalypse.tga
+000009.372|  309188.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 055_Borses_Staff_of_Apocalypse.tga - not found. Dummy texture created.
+000009.417|  310568.0000kb|   1380.0000kb added|  ERROR| Can not open file <color-wraith_flicker.tga> *********
+000009.417|  310568.0000kb|      0.0000kb added|  ERROR| Failed to load color-wraith_flicker.tga
+000009.417|  310568.0000kb|      0.0000kb added|   WARN| r3dTexture EX: color-wraith_flicker.tga - not found. Dummy texture created.
+000009.419|  310600.0000kb|     32.0000kb added|  ERROR| Failed to load mesh file name<wraith_hit.sco>.
+000009.598|  319432.0000kb|   8832.0000kb added|  ERROR| Can not open file <2222_Transmutation_Crystal.dds> *********
+000009.598|  319432.0000kb|      0.0000kb added|  ERROR| Failed to load 2222_Transmutation_Crystal.dds
+000009.598|  319432.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 2222_Transmutation_Crystal.dds - not found. Dummy texture created.
+000009.986|  331364.0000kb|  11932.0000kb added|  ERROR| Can not open file <3085.dds> *********
+000009.986|  331364.0000kb|      0.0000kb added|  ERROR| Failed to load 3085.dds
+000009.987|  331364.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 3085.dds - not found. Dummy texture created.
+000010.005|  332948.0000kb|   1584.0000kb added|  ERROR| Can not open file <Soraka_heal_color.tga> *********
+000010.005|  332948.0000kb|      0.0000kb added|  ERROR| Failed to load Soraka_heal_color.tga
+000010.005|  332948.0000kb|      0.0000kb added|   WARN| r3dTexture EX: Soraka_heal_color.tga - not found. Dummy texture created.
+000010.136|  333620.0000kb|    672.0000kb added|  ERROR| Can not open file <3154_WriggleLantern.dds> *********
+000010.136|  333620.0000kb|      0.0000kb added|  ERROR| Failed to load 3154_WriggleLantern.dds
+000010.136|  333620.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 3154_WriggleLantern.dds - not found. Dummy texture created.
+000010.252|  340352.0000kb|   6732.0000kb added|  ERROR| Can not open file <3210_Instigator.dds> *********
+000010.252|  340352.0000kb|      0.0000kb added|  ERROR| Failed to load 3210_Instigator.dds
+000010.252|  340352.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 3210_Instigator.dds - not found. Dummy texture created.
+000010.368|  348436.0000kb|   8084.0000kb added|  ERROR| Can not open file <color-teleportrings.tga> *********
+000010.369|  348436.0000kb|      0.0000kb added|  ERROR| Failed to load color-teleportrings.tga
+000010.369|  348436.0000kb|      0.0000kb added|   WARN| r3dTexture EX: color-teleportrings.tga - not found. Dummy texture created.
+000010.443|  352312.0000kb|   3876.0000kb added|  ERROR| Can not open file <3400_Karache.dds> *********
+000010.443|  352312.0000kb|      0.0000kb added|  ERROR| Failed to load 3400_Karache.dds
+000010.443|  352312.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 3400_Karache.dds - not found. Dummy texture created.
+000010.793|  399800.0000kb|  47488.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Menu_SC4/-nolink.dds" because it's not in the manifest.
+000010.793|  399800.0000kb|      0.0000kb added|  ERROR| Missing file on r3dGFile open :DATA/Menu_SC4/-nolink.dds
+000010.794|  399800.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Menu_SC4/TurretTipImage.png-nolink.dds" because it's not in the manifest.
+000010.794|  399800.0000kb|      0.0000kb added|  ERROR| Missing file on r3dGFile open :DATA/Menu_SC4/TurretTipImage.png-nolink.dds
+000010.794|  399800.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Menu_SC4/recapSplash.png-nolink.dds" because it's not in the manifest.
+000010.794|  399800.0000kb|      0.0000kb added|  ERROR| Missing file on r3dGFile open :DATA/Menu_SC4/recapSplash.png-nolink.dds
+000012.730|  418700.0000kb|  18900.0000kb added| ALWAYS| PreloadGlobalEffects()
+000012.730|  418700.0000kb|      0.0000kb added| ALWAYS| PreloadGlobalEffects
+000012.976|  462980.0000kb|  44280.0000kb added| ALWAYS| PreloadGlobalEffects Finished
+000012.976|  462980.0000kb|      0.0000kb added| ALWAYS| PreloadGlobalBuffAssets()
+000012.985|  462980.0000kb|      0.0000kb added|  ERROR| Can not open file <48thSlave_Pacify.dds> *********
+000012.985|  462980.0000kb|      0.0000kb added|  ERROR| Failed to load 48thSlave_Pacify.dds
+000012.985|  462980.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 48thSlave_Pacify.dds - not found. Dummy texture created.
+000013.072|  463572.0000kb|    592.0000kb added| ALWAYS| Preload Announcements
+000013.082|  463580.0000kb|      8.0000kb added| ALWAYS| ObjectManager_RegisterNetworkWorld()
+000013.086|  463580.0000kb|      0.0000kb added| ALWAYS| FogOfWar::Init()
+000013.091|  463764.0000kb|    184.0000kb added| ALWAYS| Gamma::CreateIAPI()
+000013.096|  463752.0000kb|    -12.0000kb added| ALWAYS| SimulationClock->Init()
+000013.407|  472688.0000kb|   8936.0000kb added|  ERROR| Failed to load mesh file name<Zed_Skin02_Q_Shuriken.sco>.
+000013.408|  472688.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<Zed_Skin02_Q_Shuriken.sco>.
+000013.412|  472684.0000kb|     -4.0000kb added|  ERROR| Failed to load mesh file name<Zed_Skin02_Q_Shuriken.sco>.
+000013.412|  472684.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<Zed_Skin02_Q_Shuriken.sco>.
+000013.447|  472684.0000kb|      0.0000kb added|   WARN| r3dTexture EX:  - not found. Dummy texture created.
+000013.749|  472692.0000kb|      8.0000kb added|  ERROR| Failed to load spell ini or script: "ZedUltFakeMissile"
+000014.526|  485388.0000kb|  12696.0000kb added|  ERROR| Can not open file <Aatrox_impact_RGB.tga> *********
+000014.526|  485388.0000kb|      0.0000kb added|  ERROR| Failed to load Aatrox_impact_RGB.tga
+000014.526|  485388.0000kb|      0.0000kb added|   WARN| r3dTexture EX: Aatrox_impact_RGB.tga - not found. Dummy texture created.
+000014.737|  488532.0000kb|   3144.0000kb added|  ERROR| Can not open file <MasterYi_SunderingStrikes.dds> *********
+000014.737|  488532.0000kb|      0.0000kb added|  ERROR| Failed to load MasterYi_SunderingStrikes.dds
+000014.738|  488532.0000kb|      0.0000kb added|   WARN| r3dTexture EX: MasterYi_SunderingStrikes.dds - not found. Dummy texture created.
+000014.743|  488540.0000kb|      8.0000kb added|  ERROR| Can not open file <Aatrox_SunderingStrikes.dds> *********
+000014.743|  488540.0000kb|      0.0000kb added|  ERROR| Failed to load Aatrox_SunderingStrikes.dds
+000014.743|  488540.0000kb|      0.0000kb added|   WARN| r3dTexture EX: Aatrox_SunderingStrikes.dds - not found. Dummy texture created.
+000014.887|  490100.0000kb|   1560.0000kb added|   WARN| r3dTexture EX:  - not found. Dummy texture created.
+000017.157|  525096.0000kb|  34996.0000kb added|  ERROR| Can not open file <MasterYi_LeapStrike.dds> *********
+000017.157|  525096.0000kb|      0.0000kb added|  ERROR| Failed to load MasterYi_LeapStrike.dds
+000017.157|  525096.0000kb|      0.0000kb added|   WARN| r3dTexture EX: MasterYi_LeapStrike.dds - not found. Dummy texture created.
+000017.365|  528872.0000kb|   3776.0000kb added|  ERROR| Can not open file <MasterYi_WujuStyleActive.dds> *********
+000017.365|  528872.0000kb|      0.0000kb added|  ERROR| Failed to load MasterYi_WujuStyleActive.dds
+000017.365|  528872.0000kb|      0.0000kb added|   WARN| r3dTexture EX: MasterYi_WujuStyleActive.dds - not found. Dummy texture created.
+000017.597|  535044.0000kb|   6172.0000kb added|  ERROR| Can not open file <color-wujusc.tga> *********
+000017.597|  535044.0000kb|      0.0000kb added|  ERROR| Failed to load color-wujusc.tga
+000017.597|  535044.0000kb|      0.0000kb added|   WARN| r3dTexture EX: color-wujusc.tga - not found. Dummy texture created.
+000018.260|  544160.0000kb|   9116.0000kb added|  ERROR| Failed to load mesh file name<Darius_ZaunKnight_Smoke.sco>.
+000018.264|  544160.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<Darius_ZaunKnight_Smoke.sco>.
+000018.266|  544160.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<=Darius_ZaunKnight_Smoke.sco>.
+000020.623|  574276.0968kb|  30116.0000kb added| ALWAYS| GAMESTATE_GAMELOOP PreRender
+000020.624|  574292.0968kb|     16.0000kb added| ALWAYS| GAMESTATE_GAMELOOP Render
+000020.722|  623072.0000kb|  48780.0000kb added| ALWAYS| GAMESTATE_GAMELOOP FlushText
+000020.754|  641808.0000kb|  18736.0000kb added| ALWAYS| PKT_C2S_CharSelected sent
+000020.754|  641808.0000kb|      0.0000kb added| ALWAYS| Start Main Loop
+000020.755|  641856.0000kb|     48.0000kb added| ALWAYS| Waiting for all players to connect
+000020.755|  641884.0032kb|     28.0000kb added| ALWAYS| Waiting for all players to connect end
+000092.959|  584440.0000kb| -57444.0000kb added| ALWAYS| PKT_S2C_StartSpawn
+000092.959|  584440.0000kb|      0.0000kb added| ALWAYS| Creating Hero...
+000092.999|  584516.0968kb|     76.0000kb added| ALWAYS| Spawning champion (Zed) with skinID 1 on team 100 for clientID 0 and summonername (Only Minah) (is HUMAN PLAYER)
+000093.000|  584520.0000kb|      4.0000kb added| ALWAYS| Hero Zed(1) created for Only Minah
+000093.000|  584524.0032kb|      4.0000kb added| ALWAYS| Spawning heroes/minions
+000093.030|  587260.0032kb|   2736.0000kb added| ALWAYS| Finished spawning heroes/minions
+000093.530|  587260.0032kb|      0.0000kb added| ALWAYS| Creating Hero...
+000093.580|  587260.0032kb|      0.0000kb added| ALWAYS| Spawning champion (Aatrox) with skinID 0 on team 100 for clientID 8 and summonername (lilshawny) (is HUMAN PLAYER)
+000093.580|  587260.0032kb|      0.0000kb added| ALWAYS| Hero Aatrox(0) created for lilshawny
+000094.642|  590520.0000kb|   3260.0000kb added| ALWAYS| Creating Hero...
+000094.656|  590700.0032kb|    180.0000kb added| ALWAYS| Spawning champion (Leona) with skinID 0 on team 100 for clientID 9 and summonername (TSM OddKat) (is HUMAN PLAYER)
+000094.656|  590700.0032kb|      0.0000kb added| ALWAYS| Hero Leona(0) created for TSM OddKat
+000095.173|  593384.0000kb|   2684.0000kb added| ALWAYS| Creating Hero...
+000095.205|  593392.0000kb|      8.0000kb added| ALWAYS| Spawning champion (Graves) with skinID 0 on team 100 for clientID 3 and summonername (WaTzabi) (is HUMAN PLAYER)
+000095.205|  593392.0000kb|      0.0000kb added| ALWAYS| Hero Graves(0) created for WaTzabi
+000095.713|  594084.0968kb|    692.0000kb added|  ERROR| Failed to load mesh file name<global_ss_exhaust_Spiral.scb>.
+000095.720|  594348.0032kb|    264.0000kb added|  ERROR| Failed to load mesh file name<global_ss_exhaust_Spiral.scb>.
+000095.721|  594352.0000kb|      4.0000kb added| ALWAYS| Creating Hero...
+000095.725|  594624.0000kb|    272.0000kb added| ALWAYS| Spawning champion (MasterYi) with skinID 2 on team 100 for clientID 1 and summonername (TubbyMopho) (is HUMAN PLAYER)
+000095.725|  594624.0000kb|      0.0000kb added| ALWAYS| Hero MasterYi(2) created for TubbyMopho
+000095.734|  595480.0000kb|    856.0000kb added| ALWAYS| Creating Hero...
+000095.736|  595504.0000kb|     24.0000kb added| ALWAYS| Spawning champion (Akali) with skinID 0 on team 200 for clientID 4 and summonername (ScarletMasterMay) (is HUMAN PLAYER)
+000095.736|  595504.0000kb|      0.0000kb added| ALWAYS| Hero Akali(0) created for ScarletMasterMay
+000096.237|  595504.0000kb|      0.0000kb added| ALWAYS| Creating Hero...
+000096.255|  595528.0000kb|     24.0000kb added| ALWAYS| Spawning champion (Darius) with skinID 0 on team 200 for clientID 2 and summonername (thirty Garens) (is HUMAN PLAYER)
+000096.337|  601692.0032kb|   6164.0000kb added| ALWAYS| Hero Darius(0) created for thirty Garens
+000097.623|  621752.0000kb|  20060.0000kb added| ALWAYS| Creating Hero...
+000097.624|  621800.0000kb|     48.0000kb added| ALWAYS| Spawning champion (Graves) with skinID 0 on team 200 for clientID 5 and summonername (ashen65) (is HUMAN PLAYER)
+000097.624|  621800.0000kb|      0.0000kb added| ALWAYS| Hero Graves(0) created for ashen65
+000097.625|  621800.0000kb|      0.0000kb added| ALWAYS| Creating Hero...
+000097.684|  623396.0968kb|   1596.0000kb added| ALWAYS| Spawning champion (Lulu) with skinID 0 on team 200 for clientID 7 and summonername (lyxknight) (is HUMAN PLAYER)
+000097.684|  623396.0968kb|      0.0000kb added| ALWAYS| Hero Lulu(0) created for lyxknight
+000098.185|  623396.0968kb|      0.0000kb added| ALWAYS| Creating Hero...
+000098.190|  623408.0000kb|     12.0000kb added| ALWAYS| Spawning champion (XinZhao) with skinID 5 on team 200 for clientID 6 and summonername (wgqi) (is HUMAN PLAYER)
+000098.190|  623408.0000kb|      0.0000kb added| ALWAYS| Hero XinZhao(5) created for wgqi
+000098.796|  627392.0000kb|   3984.0000kb added| ALWAYS| PKT_S2C_EndSpawn
+000107.844|  627416.0000kb|     24.0000kb added| ALWAYS| PKT_StartGame
+000108.089|  646420.0968kb|  19004.0000kb added| ALWAYS| PKT_StartGame Finished proccessing
+000108.098|  646604.0032kb|    184.0000kb added| ALWAYS| GAMESTATE_GAMELOOP Begin
+000108.098|  646604.0032kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP Update World
+000108.100|  646604.0032kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP GUIMenuProcess
+000108.100|  646604.0032kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP HUDProcess
+000108.100|  646608.0000kb|      4.0000kb added| ALWAYS| GAMESTATE_GAMELOOP Particle Simulation
+000108.100|  646608.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP FOWUpdate
+000108.101|  646608.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP UpdateVis
+000108.103|  647256.0000kb|    648.0000kb added| ALWAYS| GAMESTATE_GAMELOOP PreRender
+000108.103|  647256.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP Render
+000108.147|  654732.0032kb|   7476.0000kb added| ALWAYS| GAMESTATE_GAMELOOP PostProcess
+000108.147|  654732.0032kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP ApplyGamma
+000108.147|  654752.0000kb|     20.0000kb added| ALWAYS| GAMESTATE_GAMELOOP HUDDraw
+000108.151|  655608.0000kb|    856.0000kb added| ALWAYS| GAMESTATE_GAMELOOP GUIMenuDraw
+000108.245|  678976.0000kb|  23368.0000kb added| ALWAYS| GAMESTATE_GAMELOOP DrawSysInfo
+000108.245|  678980.0968kb|      4.0000kb added| ALWAYS| GAMESTATE_GAMELOOP MCommandDraw
+000108.245|  678984.0000kb|      4.0000kb added| ALWAYS| GAMESTATE_GAMELOOP FlushText
+000108.245|  678988.0032kb|      4.0000kb added| ALWAYS| GAMESTATE_GAMELOOP AudioUpdate
+000108.245|  678992.0000kb|      4.0000kb added| ALWAYS| GAMESTATE_GAMELOOP EndRender & EndFrame
+000108.251|  663280.0000kb| -15712.0000kb added| ALWAYS| GAMESTATE_GAMELOOP End
+000114.266|  767072.0000kb| 103792.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000114.346|  767072.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000118.297|  754016.0000kb| -13056.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000118.369|  754024.0000kb|      8.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000118.431|  755060.0968kb|   1036.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000118.519|  755064.0000kb|      4.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000254.606|  789220.0968kb|  34156.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000254.606|  789220.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000254.607|  789220.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000260.776|  779224.0000kb|  -9996.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+000268.474|  742212.0968kb| -37012.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000268.474|  742212.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000268.474|  742212.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000277.930|  780036.0968kb|  37824.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000277.930|  780036.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000277.930|  780036.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000278.423|  780060.0032kb|     24.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+000278.424|  780060.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+000278.424|  780060.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+000278.424|  780060.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d499
+000299.883|  795928.0000kb|  15868.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+000299.883|  795928.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+000299.883|  795928.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Missile/SpellLineMissile.cpp
+Line: 94
+
+Function: Spell::Missile::SpellLineMissile::OnCreateNonReplicate
+
+Expression: mMissileData->getSpellLevel() >= 0 && mMissileData->getSpellLevel() < Enums::kMaxSpellLevel
+000300.860|  771120.0000kb| -24808.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000300.860|  771120.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000300.860|  771120.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000315.611|  813348.0968kb|  42228.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000315.611|  813348.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000315.611|  813348.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000322.885|  763180.0032kb| -50168.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+000322.885|  763180.0032kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+000341.925|  796604.0032kb|  33424.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+000345.943|  796604.0032kb|      0.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_open, for character: Leona
+000349.501|  796616.0000kb|     12.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000349.501|  796616.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000349.501|  796616.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000352.162|  797652.0968kb|   1036.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_close, for character: Leona
+000362.123|  788068.0968kb|  -9584.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000362.124|  788068.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000362.124|  788068.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000376.924|  815004.0032kb|  26936.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+000376.924|  815004.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+000376.924|  815004.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+000376.924|  815004.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d499
+000384.066|  815008.0000kb|      4.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+000384.066|  815008.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+000386.476|  815032.0000kb|     24.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Pings_Click
+000387.346|  797328.0000kb| -17704.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+000394.637|  806100.0968kb|   8772.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_open, for character: Leona
+000400.784|  815716.0968kb|   9616.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_close, for character: Leona
+000412.554|  814692.0968kb|  -1024.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+000412.555|  814692.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+000412.555|  814692.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+000412.555|  814692.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d499
+000415.441|  814692.0968kb|      0.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+000415.441|  814692.0968kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+000436.348|  815084.0032kb|    392.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+000436.348|  815084.0032kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+000443.073|  789560.0000kb| -25524.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000443.073|  789560.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000443.073|  789560.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000448.177|  752040.0000kb| -37520.0000kb added|   WARN| character Graves does not have animation 'NONE' (spell 'Recall')
+000453.981|  804404.0968kb|  52364.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000453.981|  804404.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000453.981|  804404.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000456.175|  805440.0000kb|   1036.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+000456.175|  805440.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+000456.175|  805440.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+000456.175|  805440.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d499
+000485.746|  797076.0968kb|  -8364.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000485.746|  797076.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000485.746|  797076.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000486.713|  797076.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+000486.713|  797076.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+000486.713|  797076.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+000486.713|  797076.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d499
+000498.732|  795940.0968kb|  -1136.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_open, for character: Leona
+000503.301|  753788.0032kb| -42152.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+000505.032|  753852.0032kb|     64.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_close, for character: Leona
+000508.332|  770904.0000kb|  17052.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+000508.332|  770904.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+000530.467|  823552.0000kb|  52648.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+000530.467|  823552.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+000531.573|  823556.0968kb|      4.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+000531.573|  823556.0968kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+000531.574|  823556.0968kb|      0.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+000531.574|  823556.0968kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+000534.830|  756328.0000kb| -67228.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+000534.830|  756328.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+000536.838|  756328.0000kb|      0.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_open, for character: Leona
+000538.783|  756328.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000538.783|  756328.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000538.783|  756328.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000543.172|  764056.0000kb|   7728.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_close, for character: Leona
+000558.421|  805884.0032kb|  41828.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Pings_Click
+000563.828|  772696.0000kb| -33188.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+000563.828|  772696.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+000563.828|  772696.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+000563.828|  772696.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+000563.828|  772696.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+000563.829|  772696.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+000563.829|  772696.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+000563.829|  772696.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+000563.829|  772696.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+000563.829|  772696.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+000563.829|  772696.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+000563.829|  772696.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+000564.073|  772696.0000kb|      0.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell4, for character: MasterYi
+000566.313|  764116.0968kb|  -8580.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+000566.313|  764116.0968kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+000569.121|  765340.0032kb|   1224.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000569.121|  765340.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000569.121|  765340.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000571.885|  765352.0000kb|     12.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+000571.885|  765352.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+000571.885|  765352.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+000571.885|  765352.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d499
+000572.380|  765356.0032kb|      4.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_open, for character: Leona
+000578.729|  798536.0000kb|  33180.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_close, for character: Leona
+000592.742|  765332.0968kb| -33204.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+000592.742|  765332.0968kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+000602.108|  774576.0000kb|   9244.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_open, for character: Leona
+000605.202|  774580.0968kb|      4.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_close, for character: Leona
+000610.864|  825180.0032kb|  50600.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+000610.864|  825180.0032kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+000635.026|  809344.0000kb| -15836.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+000635.026|  809344.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+000645.979|  825388.0032kb|  16044.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000645.979|  825388.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000645.979|  825388.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000660.768|  799852.0032kb| -25536.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+000660.768|  799852.0032kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+000694.286|  825448.0000kb|  25596.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+000704.266|  825396.0968kb|    -52.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000704.266|  825396.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000704.266|  825396.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000715.217|  825424.0000kb|     28.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+000716.554|  799680.0000kb| -25744.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+000716.554|  799680.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+000723.725|  808448.0000kb|   8768.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000723.725|  808448.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000723.725|  808448.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000726.885|  825424.0000kb|  16976.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Missile/SpellMissile.cpp
+Line: 640
+
+Function: Spell::Missile::SpellMissile::OnCreateNonReplicate
+
+Expression: mMissileData->getSpellLevel() >= 0 && mMissileData->getSpellLevel() < Enums::kMaxSpellLevel
+000728.558|  826456.0000kb|   1032.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+000728.558|  826456.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+000728.558|  826456.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+000728.558|  826456.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d499
+000730.545|  826464.0000kb|      8.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000730.546|  826464.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000730.546|  826464.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000730.993|  826464.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e7e6439
+000731.049|  826480.0000kb|     16.0000kb added| ALWAYS| The Killer was: lilshawny
+000731.049|  826480.0000kb|      0.0000kb added| ALWAYS| HEALS
+000731.049|  826480.0000kb|      0.0000kb added| ALWAYS|   thirty Garens applied amount 0 with abilities [DariusCleave|amount:0|priority:0][DariusNoxianTacticsONH|amount:0|priority:0][MordekaiserSyphonOfDestruction|amount:0|priority:0][Root|amount:0|priority:0]
+000731.049|  826480.0000kb|      0.0000kb added| ALWAYS| DAMAGE
+000731.049|  826480.0000kb|      0.0000kb added| ALWAYS|   lilshawny applied amount 677.478 with abilities [_BasicAttack|amount:213.265|priority:142][AatroxW|amount:142.177|priority:142][AatroxR|amount:138.056|priority:138][SummonerDot|amount:126|priority:134][AatroxQ|amount:57.9802|priority:57]
+000731.049|  826480.0000kb|      0.0000kb added| ALWAYS|   Minion applied amount 10.5375 with abilities [_BasicAttack|amount:10.5375|priority:10]
+000731.096|  827936.0000kb|   1456.0000kb added|   WARN| [thirty Garens] warning: PKT_CastSpell received for dead Unit. Spell: DariusBasicAttack
+000736.552|  828272.0000kb|    336.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell4, for character: MasterYi
+000736.573|  828272.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000736.663|  828272.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000737.967|  828280.0000kb|      8.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000738.046|  828280.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000738.050|  828280.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000741.671|  769292.0032kb| -58988.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+000741.671|  769292.0032kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+000741.971|  769296.0000kb|      4.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+000741.971|  769296.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+000742.257|  769296.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000742.356|  769296.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000742.375|  770320.0000kb|   1024.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+000742.375|  770320.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+000745.543|  770356.0968kb|     36.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000745.639|  770364.0032kb|      8.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000745.831|  770412.0032kb|     48.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+000745.831|  770412.0032kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+000751.351|  771248.0000kb|    836.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000751.426|  771248.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000751.486|  771248.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000751.557|  771248.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000751.744|  771768.0000kb|    520.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000751.747|  771768.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000751.748|  771768.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000751.816|  771768.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000751.881|  772024.0000kb|    256.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000751.955|  772024.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000752.007|  772024.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000752.076|  772024.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000752.145|  772284.0032kb|    260.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000752.220|  772284.0032kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000761.274|  813592.0000kb|  41308.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000761.357|  813592.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000761.401|  813592.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000761.484|  813592.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000761.521|  813592.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000761.594|  813592.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000761.640|  813592.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000761.723|  813592.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000761.769|  813592.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000761.842|  813592.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000761.905|  813592.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000761.976|  813592.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000762.031|  813592.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000762.100|  813592.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000762.172|  813592.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000762.231|  813592.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000762.288|  813592.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000762.351|  813592.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000762.412|  813592.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000762.476|  813592.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000762.568|  813600.0000kb|      8.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000762.596|  813600.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000771.343|  784076.0032kb| -29524.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+000771.343|  784076.0032kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+000776.074|  827796.0968kb|  43720.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 00000000
+000791.215|  836844.0032kb|   9048.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000791.215|  836844.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000791.215|  836844.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000794.337|  785828.0968kb| -51016.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_open, for character: Leona
+000794.994|  810444.0032kb|  24616.0000kb added|   WARN| Attachment asked for a velocity on an object that no longer exists!
+000800.535|  810832.0000kb|    388.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_close, for character: Leona
+000801.937|  819036.0032kb|   8204.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+000802.099|  819036.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000802.100|  819036.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000802.100|  819036.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000829.243|  835864.0000kb|  16828.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+000829.243|  835864.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+000834.197|  777428.0968kb| -58436.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+000839.139|  810644.0968kb|  33216.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000839.139|  810644.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000839.139|  810644.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000844.616|  785836.0032kb| -24808.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000844.616|  785836.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000844.616|  785836.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000849.743|  820248.0000kb|  34412.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000849.743|  820248.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000849.743|  820248.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000850.927|  820248.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+000850.927|  820248.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+000850.927|  820248.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+000850.927|  820248.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d499
+000857.630|  768872.0000kb| -51376.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+000857.630|  768872.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+000865.396|  793780.0968kb|  24908.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+000871.949|  802608.0000kb|   8828.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+000871.949|  802608.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+000876.066|  827976.0000kb|  25368.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000876.066|  827976.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000876.066|  827976.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000876.582|  828352.0000kb|    376.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+000876.582|  828352.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+000876.582|  828352.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+000876.582|  828352.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d499
+000878.150|  828352.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+000878.150|  828352.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+000899.443|  778872.0000kb| -49480.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+000899.443|  778872.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+000910.254|  828580.0968kb|  49708.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000910.254|  828580.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000910.254|  828580.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000929.105|  770732.0032kb| -57848.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+000929.105|  770732.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+000929.608|  770732.0032kb|      0.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell4, for character: MasterYi
+000930.289|  770732.0032kb|      0.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+000930.289|  770732.0032kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+000930.876|  770732.0032kb|      0.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+000930.876|  770732.0032kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+000931.512|  778936.0000kb|   8204.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+000931.512|  778936.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+000941.803|  812104.0000kb|  33168.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+000941.803|  812104.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+000978.600|  820508.0032kb|   8404.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+000978.600|  820508.0032kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+000984.330|  770900.0968kb| -49608.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_open, for character: Leona
+000987.562|  787408.0000kb|  16508.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_close, for character: Leona
+000996.876|  812268.0032kb|  24860.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000996.876|  812268.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000996.877|  812268.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+000997.325|  777756.0032kb| -34512.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+000997.325|  777756.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+000997.326|  777756.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+000997.326|  777756.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d499
+000997.707|  794732.0032kb|  16976.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+000997.707|  794732.0032kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001007.242|  825384.0000kb|  30652.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_open, for character: Leona
+001010.186|  783768.0000kb| -41616.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_close, for character: Leona
+001011.631|  789924.0968kb|   6156.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell4, for character: MasterYi
+001015.929|  772608.0000kb| -17316.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001015.929|  772608.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001049.400|  823032.0000kb|  50424.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_open, for character: Leona
+001055.741|  840204.0032kb|  17172.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_close, for character: Leona
+001063.794|  840156.0032kb|    -48.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001063.794|  840156.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001063.794|  840156.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001064.853|  840156.0032kb|      0.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001064.853|  840156.0032kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001072.969|  814596.0968kb| -25560.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001072.969|  814596.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001072.970|  814596.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001081.930|  831660.0032kb|  17064.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+001106.376|  780660.0968kb| -51000.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+001113.012|  780712.0000kb|     52.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+001125.832|  823808.0000kb|  43096.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001125.833|  823808.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001125.833|  823808.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001125.833|  823808.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d499
+001129.924|  790608.0000kb| -33200.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001129.924|  790608.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001129.924|  790608.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001131.738|  790608.0000kb|      0.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001131.738|  790608.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001144.295|  790268.0032kb|   -340.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+001144.296|  790268.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+001173.826|  782324.0968kb|  -7944.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_open, for character: Leona
+001175.329|  790528.0000kb|   8204.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001175.329|  790528.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001178.368|  824508.0032kb|  33980.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001178.368|  824508.0032kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001178.753|  827516.0032kb|   3008.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001178.753|  827516.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001178.753|  827516.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001178.921|  824508.0032kb|  -3008.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001178.921|  824508.0032kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001179.205|  780948.0968kb| -43560.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001179.205|  780948.0968kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001180.007|  781136.0000kb|    188.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_close, for character: Leona
+001204.046|  785192.0000kb|   4056.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+001204.153|  785192.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+001208.690|  785468.0032kb|    276.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+001208.767|  785468.0032kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+001209.233|  785468.0032kb|      0.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell4, for character: MasterYi
+001219.416|  859488.0000kb|  74020.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Pings_Click
+001230.586|  856032.0000kb|  -3456.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+001240.872|  848576.0000kb|  -7456.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001240.872|  848576.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001249.269|  850548.0968kb|   1972.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+001250.608|  850548.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+001253.475|  833116.0032kb| -17432.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001253.475|  833116.0032kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001253.695|  833116.0032kb|      0.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_open, for character: Leona
+001254.641|  833200.0000kb|     84.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001254.641|  833200.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001254.642|  833208.0000kb|      8.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001254.642|  833208.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001256.807|  788312.0000kb| -44896.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_close, for character: Leona
+001263.513|  849308.0032kb|  60996.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001263.513|  849308.0032kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001275.876|  859952.0000kb|  10644.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001275.877|  859952.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001275.877|  859952.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001276.198|  859952.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001276.198|  859952.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001276.198|  859952.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001276.198|  859952.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d499
+001277.078|  859960.0000kb|      8.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001277.078|  859960.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001277.949|  852344.0000kb|  -7616.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e7e6439
+001278.430|  853496.0000kb|   1152.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d409
+001279.192|  865560.0000kb|  12064.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+001279.192|  865560.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+001301.832|  837824.0000kb| -27736.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001301.832|  837824.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001301.832|  837824.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001312.004|  827348.0968kb| -10476.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001312.004|  827348.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001312.004|  827348.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001317.853|  826748.0032kb|   -600.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001317.853|  826748.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001317.853|  826748.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001332.245|  862008.0000kb|  35260.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 00000000
+001334.313|  838256.0000kb| -23752.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell4, for character: MasterYi
+001335.053|  838312.0000kb|     56.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001335.053|  838312.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001335.053|  838312.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001335.570|  838312.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001335.570|  838312.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001335.571|  838312.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001335.571|  838312.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d499
+001337.464|  838648.0000kb|    336.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_open, for character: Leona
+001338.614|  796308.0968kb| -42340.0000kb added|   WARN| Death Recap damage has two different types! Spell: _BasicAttack
+001338.614|  796308.0968kb|      0.0000kb added| ALWAYS| The Killer was: TubbyMopho
+001338.614|  796308.0968kb|      0.0000kb added| ALWAYS| HEALS
+001338.615|  796308.0968kb|      0.0000kb added| ALWAYS|   thirty Garens applied amount 0 with abilities [game_item_displayname_3044|amount:0|priority:0][game_item_displayname_3057|amount:0|priority:0][DariusNoxianTacticsONH|amount:0|priority:0][DariusCleave|amount:0|priority:0][game_item_displayname_3047|amount:0|priority:0][RegenerationPotion|amount:0|priority:0]
+001338.615|  796308.0968kb|      0.0000kb added| ALWAYS| DAMAGE
+001338.615|  796308.0968kb|      0.0000kb added| ALWAYS|   TubbyMopho applied amount 2001.4 with abilities [WujuStyle|amount:468|priority:468][game_item_displayname_3153|amount:341.722|priority:343][_BasicAttack|amount:701.932|priority:255][game_item_displayname_3160|amount:190.897|priority:192][AlphaStrike|amount:175.505|priority:175][ItemSwordOfFeastAndFamine|amount:123.347|priority:131]
+001340.708|  829280.0000kb|  32972.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_close, for character: Leona
+001351.696|  805096.0000kb| -24184.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+001351.830|  805096.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+001355.828|  805096.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+001355.902|  805096.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+001362.014|  857112.0000kb|  52016.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+001362.113|  857112.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+001363.315|  857100.0032kb|    -12.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+001363.394|  857100.0032kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+001363.601|  857100.0032kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+001363.701|  857100.0032kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+001364.700|  819612.0032kb| -37488.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+001373.299|  855324.0032kb|  35712.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001373.299|  855324.0032kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001373.862|  860520.0000kb|   5196.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001373.862|  860520.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001374.506|  860720.0000kb|    200.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001374.506|  860720.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001375.379|  862424.0000kb|   1704.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001375.379|  862456.0000kb|     32.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001379.793|  859212.0032kb|  -3244.0000kb added|   WARN| [ashen65] warning: PKT_CastSpell received for dead Unit. Spell: GravesBasicAttack
+001389.539|  869548.0032kb|  10336.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+001389.539|  869548.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+001399.259|  875524.0968kb|   5976.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+001402.740|  863608.0000kb| -11916.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001402.740|  863608.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001402.740|  863608.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001414.270|  869612.0032kb|   6004.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001414.270|  869612.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001414.270|  869612.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001414.270|  869612.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d499
+001416.139|  869612.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001416.139|  869612.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001416.139|  869612.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001444.336|  835008.0000kb| -34604.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+001444.432|  835008.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+001444.491|  835008.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+001444.579|  835008.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+001447.471|  797332.0968kb| -37676.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+001447.551|  797332.0968kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+001447.613|  797332.0968kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+001447.690|  797332.0968kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+001447.752|  797340.0032kb|      8.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+001447.817|  797340.0032kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+001447.877|  797340.0032kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+001447.954|  797340.0032kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+001467.274|  870404.0968kb|  73064.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001467.274|  870404.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001467.274|  870404.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001471.715|  870652.0032kb|    248.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001471.715|  870652.0032kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001471.750|  870652.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001471.750|  870652.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001471.750|  870652.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001471.750|  870652.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d499
+001472.438|  870652.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001472.438|  870652.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001472.439|  870652.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001490.293|  821768.0000kb| -48884.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell4, for character: MasterYi
+001502.283|  870756.0968kb|  48988.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_open, for character: Leona
+001503.000|  870756.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001503.000|  870756.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001503.000|  870756.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001504.419|  870756.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e7e6439
+001505.057|  842356.0968kb| -28400.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001505.057|  842356.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001505.058|  842356.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001505.058|  842356.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d499
+001508.210|  857080.0000kb|  14724.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001508.210|  857080.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001508.210|  857080.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001508.522|  857080.0000kb|      0.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_close, for character: Leona
+001515.113|  877664.0000kb|  20584.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001515.114|  877664.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001515.114|  877664.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001515.183|  877664.0000kb|      0.0000kb added|   WARN| [lilshawny] warning: PKT_CastSpell received for dead Unit. Spell: AatroxBasicAttack2
+001518.844|  869664.0000kb|  -8000.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001518.844|  869664.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001519.472|  872672.0000kb|   3008.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001519.472|  872672.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001519.472|  872672.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001519.473|  872672.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d499
+001520.229|  872680.0000kb|      8.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001520.229|  872680.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001520.230|  872680.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001520.757|  875692.0032kb|   3012.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001520.757|  875692.0032kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001521.118|  872872.0000kb|  -2820.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 05e6ac09
+001521.119|  872872.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 05e6ac09
+001521.318|  874156.0032kb|   1284.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001521.318|  874156.0032kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001521.319|  874156.0032kb|      0.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001521.319|  874156.0032kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001523.914|  868208.0000kb|  -5948.0000kb added| ALWAYS| The Killer was: Only Minah
+001523.914|  868208.0000kb|      0.0000kb added| ALWAYS| HEALS
+001523.914|  868208.0000kb|      0.0000kb added| ALWAYS|   lyxknight applied amount 240 with abilities [SummonerHeal|amount:240|priority:238][LuluE|amount:0|priority:71][LuluW|amount:0|priority:71][LuluR|amount:0|priority:9][game_item_displayname_3105|amount:0|priority:0]
+001523.914|  868208.0000kb|      0.0000kb added| ALWAYS|   thirty Garens applied amount 0 with abilities [game_item_displayname_3044|amount:0|priority:0][game_item_displayname_3047|amount:0|priority:0][DariusCleave|amount:0|priority:0][game_item_displayname_3078|amount:0|priority:0][DariusNoxianTacticsONH|amount:0|priority:0]
+001523.914|  868208.0000kb|      0.0000kb added| ALWAYS| DAMAGE
+001523.914|  868208.0000kb|      0.0000kb added| ALWAYS|   Only Minah applied amount 1051.61 with abilities [_BasicAttack|amount:396.274|priority:396][ZedShuriken|amount:245.706|priority:208][ZedPBAOEDummy|amount:185.289|priority:185][zedmarker|amount:144.282|priority:144][game_item_displayname_3153|amount:80.0649|priority:81][ZedUlt|amount:0|priority:0]
+001523.914|  868208.0000kb|      0.0000kb added| ALWAYS|   lilshawny applied amount 169.808 with abilities [AatroxE|amount:169.808|priority:180]
+001528.198|  851452.0032kb| -16756.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+001528.311|  851452.0032kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+001553.070|  856676.0968kb|   5224.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+001563.296|  871052.0032kb|  14376.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_open, for character: Leona
+001569.578|  877288.0000kb|   6236.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_close, for character: Leona
+001571.709|  871272.0000kb|  -6016.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+001573.041|  872248.0000kb|    976.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+001581.039|  878308.0968kb|   6060.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Missile/SpellMissile.cpp
+Line: 640
+
+Function: Spell::Missile::SpellMissile::OnCreateNonReplicate
+
+Expression: mMissileData->getSpellLevel() >= 0 && mMissileData->getSpellLevel() < Enums::kMaxSpellLevel
+001585.215|  871272.0000kb|  -7036.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001585.215|  871272.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001585.215|  871272.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001585.576|  871272.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001585.576|  871272.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001585.576|  871272.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001585.576|  871272.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d499
+001590.468|  866232.0000kb|  -5040.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001590.469|  866232.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001590.469|  866232.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001593.172|  866044.0032kb|   -188.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001593.172|  866044.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001593.173|  866044.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001593.173|  866044.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d499
+001596.921|  863028.0968kb|  -3016.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001596.921|  863028.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001596.921|  863028.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001601.771|  872264.0000kb|   9236.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001601.771|  872264.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001601.771|  872264.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001601.771|  872264.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d499
+001603.077|  864372.0968kb|  -7892.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001603.077|  864372.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001603.077|  864372.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001609.517|  868224.0000kb|   3852.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001609.517|  868224.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001609.764|  868224.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+001609.844|  868224.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+001609.848|  868224.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+001611.112|  871236.0968kb|   3012.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001611.112|  871236.0968kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001611.333|  871236.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001611.333|  871236.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001611.333|  871236.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001612.276|  871236.0968kb|      0.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001612.276|  871236.0968kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001612.276|  871236.0968kb|      0.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001612.276|  871236.0968kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001612.539|  871236.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001612.539|  871236.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001612.539|  871236.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001612.539|  871236.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d499
+001613.367|  871244.0032kb|      8.0000kb added|   WARN| Death Recap damage from unknown source
+001613.367|  871244.0032kb|      0.0000kb added| ALWAYS| The Killer was: Only Minah
+001613.367|  871244.0032kb|      0.0000kb added| ALWAYS| HEALS
+001613.367|  871244.0032kb|      0.0000kb added| ALWAYS|   thirty Garens applied amount 0 with abilities [game_item_displayname_3078|amount:0|priority:0][DariusNoxianTacticsONH|amount:0|priority:0][DariusCleave|amount:0|priority:0][game_item_displayname_3047|amount:0|priority:0][Recall|amount:0|priority:0][DariusAxeGrabArmorPen|amount:0|priority:0][MordekaiserSyphonOfDestruction|amount:0|priority:0][Root|amount:0|priority:0]
+001613.367|  871244.0032kb|      0.0000kb added| ALWAYS|   lyxknight applied amount 0 with abilities [LuluE|amount:0|priority:74][game_item_displayname_3190|amount:0|priority:0]
+001613.367|  871244.0032kb|      0.0000kb added| ALWAYS| DAMAGE
+001613.367|  871244.0032kb|      0.0000kb added| ALWAYS|   lilshawny applied amount 1302.94 with abilities [game_item_displayname_3153|amount:555.953|priority:557][_BasicAttack|amount:444.247|priority:186][AatroxW|amount:302.744|priority:124]
+001613.367|  871244.0032kb|      0.0000kb added| ALWAYS|   Only Minah applied amount 892.138 with abilities [_BasicAttack|amount:296.317|priority:296][ZedShuriken|amount:293.217|priority:190][ZedPBAOEDummy|amount:139.061|priority:139][zedmarker|amount:125.424|priority:125][game_item_displayname_3153|amount:30.9649|priority:32][ItemSwordOfFeastAndFamine|amount:7.15422|priority:16][ZedUlt|amount:0|priority:0]
+001628.541|  838732.0032kb| -32512.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+001628.620|  838732.0032kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+001629.262|  838984.0000kb|    252.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+001629.362|  838984.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+001629.423|  838984.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+001629.491|  838984.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+001630.848|  876072.0000kb|  37088.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+001631.837|  876084.0968kb|     12.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+001632.484|  876084.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+001647.009|  879188.0968kb|   3104.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 00000000
+001678.847|  875756.0032kb|  -3432.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001678.847|  875756.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001678.847|  875756.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001688.397|  875972.0968kb|    216.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001688.397|  875972.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001688.397|  875972.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001688.397|  875972.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d499
+001693.332|  876360.0000kb|    388.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001693.332|  876360.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001704.624|  883412.0968kb|   7052.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell4, for character: MasterYi
+001706.796|  877404.0032kb|  -6008.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001706.796|  877404.0032kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001720.191|  876076.0032kb|  -1328.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 00000000
+001720.691|  882092.0032kb|   6016.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_open, for character: Leona
+001723.944|  872948.0968kb|  -9144.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_close, for character: Leona
+001739.916|  879204.0968kb|   6256.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001739.916|  879204.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001739.916|  879204.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001741.026|  879328.0000kb|    124.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+001751.397|  873384.0000kb|  -5944.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001751.397|  873384.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001751.397|  873384.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001754.703|  873596.0032kb|    212.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001754.703|  873596.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001754.703|  873596.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001754.704|  873596.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d499
+001756.429|  876876.0032kb|   3280.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+001767.522|  799572.0968kb| -77304.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell4, for character: MasterYi
+001770.292|  845676.0032kb|  46104.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+001770.293|  845676.0032kb|      0.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001770.293|  845676.0032kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001772.918|  849136.0000kb|   3460.0000kb added|   WARN| [TubbyMopho] warning: PKT_CastSpell received for dead Unit. Spell: MasterYiBasicAttack
+001773.989|  868184.0000kb|  19048.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 05e6ac09
+001773.989|  868184.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 05e6ac09
+001780.381|  875656.0000kb|   7472.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001780.381|  875656.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001780.951|  875656.0000kb|      0.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001780.951|  875656.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001781.336|  875656.0000kb|      0.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001781.336|  875656.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001782.112|  875656.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001782.112|  875656.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001782.112|  875656.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001782.594|  875656.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001782.594|  875656.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001782.594|  875656.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001782.594|  875656.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d499
+001785.011|  881876.0968kb|   6220.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001785.011|  881876.0968kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001793.903|  835012.0968kb| -46864.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001793.903|  835012.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001793.903|  835012.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001802.162|  876228.0968kb|  41216.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001802.163|  876228.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001802.163|  876228.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001802.461|  876268.0032kb|     40.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Missile/SpellMissile.cpp
+Line: 640
+
+Function: Spell::Missile::SpellMissile::OnCreateNonReplicate
+
+Expression: mMissileData->getSpellLevel() >= 0 && mMissileData->getSpellLevel() < Enums::kMaxSpellLevel
+001807.779|  879524.0968kb|   3256.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001807.779|  879524.0968kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001808.564|  879524.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001808.565|  879524.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001808.565|  879524.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001810.879|  876512.0000kb|  -3012.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 00000000
+001811.586|  876564.0968kb|     52.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_open, for character: Leona
+001814.704|  879956.0968kb|   3392.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_close, for character: Leona
+001830.576|  827692.0032kb| -52264.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+001830.659|  827692.0032kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+001830.778|  827692.0032kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+001830.867|  827700.0968kb|      8.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+001831.274|  827700.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+001837.828|  872388.0968kb|  44688.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_open, for character: Leona
+001844.125|  878408.0000kb|   6020.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_close, for character: Leona
+001849.778|  852964.0968kb| -25444.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001849.779|  852964.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001849.779|  852964.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001850.907|  833596.0032kb| -19368.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_open, for character: Leona
+001857.120|  821908.0968kb| -11688.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_close, for character: Leona
+001864.776|  827100.0032kb|   5192.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_open, for character: Leona
+001865.697|  824092.0032kb|  -3008.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001865.697|  824092.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001865.697|  824092.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001865.958|  827100.0032kb|   3008.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001865.958|  827100.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001865.959|  827100.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001865.959|  827100.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d499
+001866.399|  824092.0032kb|  -3008.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001866.399|  824092.0032kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001867.781|  844272.0000kb|  20180.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_close, for character: Leona
+001887.170|  870292.0968kb|  26020.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001887.171|  870292.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001887.171|  870292.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001887.171|  870292.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d499
+001891.197|  813904.0000kb| -56388.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001891.209|  813904.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001894.350|  864536.0000kb|  50632.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell4, for character: MasterYi
+001895.097|  864536.0000kb|      0.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001895.097|  864536.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001895.253|  864536.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001895.253|  864536.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001895.253|  864536.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001895.641|  864536.0000kb|      0.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001895.641|  864536.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001895.674|  864536.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001895.674|  864536.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001895.674|  864536.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001895.674|  864536.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d499
+001896.250|  864536.0000kb|      0.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001896.250|  864536.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001896.340|  864536.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e7e6439
+001897.237|  864672.0000kb|    136.0000kb added|   WARN| Death Recap damage from unknown source
+001897.237|  864672.0000kb|      0.0000kb added| ALWAYS| The Killer was: Only Minah
+001897.237|  864672.0000kb|      0.0000kb added| ALWAYS| HEALS
+001897.237|  864672.0000kb|      0.0000kb added| ALWAYS|   thirty Garens applied amount 0 with abilities [game_item_displayname_EnchantmentHomeguard|amount:0|priority:0][_BasicAttack|amount:0|priority:0][game_item_displayname_3078|amount:0|priority:0][DariusExecute|amount:0|priority:0][DariusNoxianTacticsONH|amount:0|priority:0][DariusCleave|amount:0|priority:0][bootshomeguard|amount:0|priority:0]
+001897.237|  864672.0000kb|      0.0000kb added| ALWAYS|   lyxknight applied amount 0 with abilities [game_item_displayname_3190|amount:0|priority:0]
+001897.237|  864672.0000kb|      0.0000kb added| ALWAYS| DAMAGE
+001897.237|  864672.0000kb|      0.0000kb added| ALWAYS|   TubbyMopho applied amount 1422.72 with abilities [WujuStyle|amount:280|priority:280][game_item_displayname_3153|amount:277.802|priority:279][_BasicAttack|amount:433.083|priority:235][AlphaStrike|amount:161.905|priority:161][game_item_displayname_3160|amount:155.08|priority:156][ItemSwordOfFeastAndFamine|amount:114.847|priority:124][DariusHemoMarker|amount:0|priority:0]
+001897.237|  864672.0000kb|      0.0000kb added| ALWAYS|   Only Minah applied amount 1098.54 with abilities [_BasicAttack|amount:240.808|priority:240][ZedShuriken|amount:295.962|priority:209][ZedPBAOEDummy|amount:149.107|priority:149][ItemTiamatCleave|amount:128.441|priority:128][ItemSwordOfFeastAndFamine|amount:118.09|priority:127][zedmarker|amount:125.642|priority:125][game_item_displayname_3153|amount:40.4875|priority:42][BlessingoftheLizardElder|amount:0|priority:0][ZedUlt|amount:0|priority:0]
+001902.454|  880116.0968kb|  15444.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001902.455|  880116.0968kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001909.341|  853284.0968kb| -26832.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+001909.422|  853284.0968kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+001909.426|  853284.0968kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+001915.624|  821584.0000kb| -31700.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+001915.711|  821584.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+001915.715|  821584.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+001925.814|  849912.0000kb|  28328.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+001925.914|  849912.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+001925.919|  849912.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+001936.045|  884144.0000kb|  34232.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+001939.582|  884144.0000kb|      0.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_open, for character: Leona
+001940.799|  884156.0032kb|     12.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001940.799|  884156.0032kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001941.219|  716700.0032kb| -167456.0000kb added| ALWAYS| r3dRenderLayer::RecreateOwnedResources
+001942.684|  772012.0032kb|  55312.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_close, for character: Leona
+001956.751|  716984.0000kb| -55028.0000kb added| ALWAYS| r3dRenderLayer::RecreateOwnedResources
+001969.679|  851116.0032kb| 134132.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 00000000
+001969.709|  854188.0032kb|   3072.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+001969.709|  854188.0032kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+001974.520|  841000.0000kb| -13188.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001974.520|  841000.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001974.520|  841000.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001988.014|  846064.0000kb|   5064.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001988.014|  846064.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001988.014|  846064.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+001990.758|  855408.0000kb|   9344.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_open, for character: Leona
+001994.844|  878928.0000kb|  23520.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+001995.226|  863676.0032kb| -15252.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001995.226|  863676.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001995.226|  863676.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+001995.226|  863676.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d499
+001997.044|  863680.0000kb|      4.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_close, for character: Leona
+002002.970|  717316.0968kb| -146364.0000kb added| ALWAYS| r3dRenderLayer::RecreateOwnedResources
+002005.217|  831416.0000kb| 114100.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+002014.045|  844168.0000kb|  12752.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_open, for character: Leona
+002015.972|  848552.0000kb|   4384.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 00000000
+002017.207|  857792.0000kb|   9240.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+002017.208|  857792.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+002017.208|  857792.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+002017.728|  860556.0032kb|   2764.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+002017.728|  860556.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+002017.728|  860556.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+002017.728|  860556.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d499
+002019.947|  859484.0032kb|  -1072.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e7e6439
+002020.272|  841992.0000kb| -17492.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_close, for character: Leona
+002020.308|  841992.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d409
+002025.936|  853316.0968kb|  11324.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+002025.936|  853316.0968kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+002030.093|  865720.0000kb|  12404.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+002046.616|  846916.0968kb| -18804.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0db19fc9
+002056.235|  811980.0032kb| -34936.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell4, for character: MasterYi
+002063.689|  867360.0000kb|  55380.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 05e6ac09
+002063.689|  867360.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 05e6ac09
+002077.213|  877288.0000kb|   9928.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+002077.213|  877288.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+002077.801|  848616.0000kb| -28672.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+002077.801|  848616.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+002078.298|  848616.0000kb|      0.0000kb added|  ERROR| Error GameTargettingType wrong for (Name:ZedUltFakeMissile) (Display: ) (-1) [C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp(99)] 
+002078.299|  848616.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Data/SpellDataInst.cpp
+Line: 102
+
+Function: Spell::SpellDataInst::SetSpellData
+
+Expression: mSpellTargeting.get()
+
+Description: ZedUltFakeMissile
+002080.366|  857212.0032kb|   8596.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+002080.366|  857212.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+002080.367|  857212.0032kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+002081.360|  863236.0968kb|   6024.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+002081.360|  863236.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+002081.360|  863236.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e0baec9
+002081.360|  863236.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d499
+002087.006|  862008.0000kb|  -1228.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+002087.006|  862008.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+002087.006|  862008.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+002089.270|  862012.0032kb|      4.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_open, for character: Leona
+002092.134|  855400.0000kb|  -6612.0000kb added|  ERROR| Assertion failed!
+
+File: C:/jenkins/workspace/game-code-Releases-4-14-public-win32/code/Game/LoL/Spell/Missile/SpellMissile.cpp
+Line: 640
+
+Function: Spell::Missile::SpellMissile::OnCreateNonReplicate
+
+Expression: mMissileData->getSpellLevel() >= 0 && mMissileData->getSpellLevel() < Enums::kMaxSpellLevel
+002092.136|  855400.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 00000000
+002095.373|  874612.0968kb|  19212.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+002095.373|  874612.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+002095.373|  874612.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+002095.618|  874692.0968kb|     80.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_close, for character: Leona
+002102.229|  851732.0968kb| -22960.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+002102.230|  851732.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+002102.230|  851732.0968kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 022f6aa9
+002102.613|  854744.0000kb|   3012.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e7e6439
+002102.974|  854752.0000kb|      8.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0848d409
+002103.604|  842712.0000kb| -12040.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 00000000
+002103.729|  842712.0000kb|      0.0000kb added|  ERROR| >>> EffectHashMap::HashToName - Match not found for hash 0e7e6439
+002103.876|  843112.0000kb|    400.0000kb added|   WARN|  >>> TalentHashMap::HashToName - Match not found for hash 0b0d0bd0
+002103.876|  843112.0000kb|      0.0000kb added| ALWAYS| The Killer was: TubbyMopho
+002103.876|  843112.0000kb|      0.0000kb added| ALWAYS| HEALS
+002103.877|  843112.0000kb|      0.0000kb added| ALWAYS|   thirty Garens applied amount 0 with abilities [SummonerDot|amount:0|priority:11][SummonerFlash|amount:0|priority:11][game_item_displayname_EnchantmentHomeguard|amount:0|priority:0][_BasicAttack|amount:0|priority:0][game_item_displayname_3078|amount:0|priority:0][DariusExecute|amount:0|priority:0][DariusCleave|amount:0|priority:0][game_item_displayname_3143|amount:0|priority:0]
+002103.877|  843112.0000kb|      0.0000kb added| ALWAYS|   Pet applied amount 0 with abilities [LuluPassiveMissile|amount:0|priority:6]
+002103.877|  843112.0000kb|      0.0000kb added| ALWAYS|   lyxknight applied amount 0 with abilities [LuluE|amount:0|priority:79][LuluW|amount:0|priority:79][game_item_displayname_3190|amount:0|priority:0]
+002103.877|  843112.0000kb|      0.0000kb added| ALWAYS| DAMAGE
+002103.877|  843112.0000kb|      0.0000kb added| ALWAYS|   lilshawny applied amount 1029.92 with abilities [SummonerDot|amount:370|priority:381][game_item_displayname_3153|amount:180.35|priority:182][AatroxW|amount:160.971|priority:160][_BasicAttack|amount:227.866|priority:154][AatroxQ|amount:90.7341|priority:90][DariusHemoMarker|amount:0|priority:0][AatroxQKnockup|amount:0|priority:0]
+002103.877|  843112.0000kb|      0.0000kb added| ALWAYS|   TubbyMopho applied amount 876.026 with abilities [AlphaStrike|amount:377.905|priority:211][_BasicAttack|amount:255.969|priority:152][WujuStyle|amount:134|priority:134][game_item_displayname_3160|amount:85.7995|priority:87][game_item_displayname_3153|amount:22.3534|priority:24][game_item_displayname_3143|amount:0|priority:0]
+002103.877|  843112.0000kb|      0.0000kb added| ALWAYS|   TSM OddKat applied amount 188.466 with abilities [LeonaSolarFlare|amount:129.242|priority:129][leonasunlight|amount:59.2238|priority:59][SummonerExhaust|amount:0|priority:0]
+002104.084|  829116.0032kb| -13996.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_open, for character: Leona
+002107.357|  866512.0000kb|  37396.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_close, for character: Leona
+002113.829|  820380.0032kb| -46132.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+002113.905|  820388.0968kb|      8.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+002119.801|  817660.0032kb|  -2728.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+002119.896|  817620.0968kb|    -40.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+002119.900|  817620.0968kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+002122.716|  875356.0032kb|  57736.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_open, for character: Leona
+002125.831|  891672.0000kb|  16316.0000kb added|  ERROR| Playing Animation Error, Cant Find Animation: Spell2_close, for character: Leona
+002131.315|  881396.0968kb| -10276.0000kb added| ALWAYS| End game message processing!
+002131.315|  881396.0968kb|      0.0000kb added| ALWAYS| End game message processed!
+002131.323|  884412.0032kb|   3016.0000kb added| ALWAYS| ClientFacade::Stop
+002134.549|  878172.0032kb|  -6240.0000kb added| ALWAYS| Finished Main Loop
+002134.553|  878208.0000kb|     36.0000kb added| ALWAYS| Performing WSAStartup
+002134.835|  878212.0968kb|      4.0000kb added| ALWAYS| Performing WSACleanup
+002137.837|  671240.0000kb| -206972.0000kb added| ALWAYS| Finished Play game
+002137.838|  671240.0000kb|      0.0000kb added| ALWAYS| {"messageType":"riot__game_client__connection_info","message_body":"Game exited","exit_code":"EXITCODE_LOSE"}
+002137.979|  653012.0968kb| -18228.0000kb added| ALWAYS| r3dRenderLayer::Close() enter
+002138.017|  529268.0000kb| -123744.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "CritIconMagic.TGA" ref count 1.
+002138.017|  529268.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "CritIcon.tga" ref count 15.
+002138.017|  529268.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "ZedShadow_stormNinja_TX_CM.DDS" ref count 1.
+002138.017|  529268.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "sightWard_championshipS3_TX_CM.dds" ref count 4.
+002138.018|  529268.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "GoldIcon.tga" ref count 223.
+002138.018|  529268.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "MasterySpellWeave.dds" ref count 1.
+002138.018|  529268.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "WardOverwrite.tga" ref count 10.
+002138.018|  529268.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "caution_small.dds" ref count 1.
+002138.018|  529268.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "attack_small.dds" ref count 1.
+002138.018|  529268.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "directionIndicator.dds" ref count 1.
+002138.018|  529268.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "shopkeeper_male_TX_CM.dds" ref count 1.
+002138.018|  529268.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "yonkey_base_TX_CM.dds" ref count 1.
+002138.018|  529268.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Lulu_base_TX_CM.dds" ref count 1.
+002138.018|  529268.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "MasterYi_Passive2.dds" ref count 1.
+002138.018|  529268.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "profileIcon659.dds" ref count 1.
+002138.018|  529268.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Xinzhao_zhaoyun_TX_CM.dds" ref count 1.
+002138.018|  529268.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "XinZhao_Square_0.dds" ref count 1.
+002138.018|  529268.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "XinZhao_Circle_0.dds" ref count 16.
+002138.018|  529268.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "lulu_base_TX_CM.dds" ref count 1.
+002138.018|  529268.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "lulu_base_squill_TX_CM.dds" ref count 1.
+002138.018|  529268.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "LuluSnowman_TX_CM.dds" ref count 1.
+002138.018|  529268.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Lulu_PET_Dragon_TX_CM.dds" ref count 1.
+002138.018|  529268.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "lulu_kitty_TX_CM.dds" ref count 1.
+002138.019|  529268.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Lulu_base_cupcake_TX_CM.dds" ref count 1.
+002138.019|  529268.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Lulu_Whimsy.dds" ref count 1.
+002138.019|  529268.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Lulu_Square_0.dds" ref count 1.
+002138.019|  529268.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Lulu_Circle_0.dds" ref count 4.
+002138.019|  529268.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "darius_base_TX_CM.dds" ref count 1.
+002138.019|  529268.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Darius_Icon_Sudden_Death.dds" ref count 2.
+002138.019|  529268.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "darius_cleave_outside.dds" ref count 1.
+002138.019|  528240.0000kb|  -1028.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Darius_Square_0.dds" ref count 1.
+002138.019|  528240.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Darius_Circle_0.dds" ref count 11.
+002138.019|  528240.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "akali.dds" ref count 1.
+002138.019|  528240.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Akali_Square_0.dds" ref count 1.
+002138.019|  528240.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Akali_Circle_0.dds" ref count 13.
+002138.019|  528240.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "MasterYi_chosen_TX_CM.dds" ref count 1.
+002138.019|  527720.0000kb|   -520.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "MasterYi_E2.dds" ref count 1.
+002138.020|  527720.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "MasterYi_E1.dds" ref count 1.
+002138.020|  527720.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "AOE_brand.dds" ref count 3.
+002138.020|  527460.0000kb|   -260.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "MasterYi_Q.dds" ref count 1.
+002138.020|  527460.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "MasterYi_Square_0.dds" ref count 1.
+002138.020|  527460.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "MasterYi_Circle_0.dds" ref count 17.
+002138.020|  527460.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Graves.dds" ref count 1.
+002138.020|  527460.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "lichLoadScreen.dds" ref count 1.
+002138.020|  527460.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Graves_Square.dds" ref count 1.
+002138.020|  527460.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Graves_Circle.dds" ref count 24.
+002138.020|  527460.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "leona_base_TX_CM.dds" ref count 1.
+002138.020|  527460.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "LeonaSolarFlare.dds" ref count 1.
+002138.020|  527460.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Leona_Square.dds" ref count 1.
+002138.020|  527460.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Leona_Circle.dds" ref count 7.
+002138.020|  527460.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "LeonaSunlight.dds" ref count 1.
+002138.020|  527460.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Aatrox_Base_TX_CM.dds" ref count 1.
+002138.020|  527204.0000kb|   -256.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Aatrox_R.dds" ref count 1.
+002138.020|  527204.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Skillshot_InvertCone_Tip.dds" ref count 1.
+002138.020|  527204.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Skillshot_InvertCone_Base.dds" ref count 1.
+002138.020|  527204.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Aatrox_E.dds" ref count 1.
+002138.020|  527204.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Aatrox_W2.dds" ref count 1.
+002138.020|  527204.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Aatrox_Q.dds" ref count 1.
+002138.021|  527204.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "AOE_leona_outer.dds" ref count 2.
+002138.021|  527204.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Aatrox_Square.dds" ref count 1.
+002138.021|  527204.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Aatrox_Circle.dds" ref count 8.
+002138.021|  527204.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Zed_stormNinja_TX_CM.DDS" ref count 1.
+002138.021|  527204.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "ZedShadow_base_TX_CM.DDS" ref count 1.
+002138.022|  517696.0000kb|  -9508.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "shadowninja_E.dds" ref count 1.
+002138.022|  517696.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "shadowninja_Q.dds" ref count 1.
+002138.022|  517696.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Zed_Square_0.dds" ref count 1.
+002138.023|  517696.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Zed_Circle_0.dds" ref count 20.
+002138.023|  517696.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "killIcon_iced.dds" ref count 1.
+002138.023|  517696.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "killIcon_streak.dds" ref count 1.
+002138.023|  517696.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "killIcon_normal.dds" ref count 1.
+002138.023|  517696.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "come_here_small.dds" ref count 1.
+002138.023|  517696.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "on_my_way_small.dds" ref count 1.
+002138.023|  517696.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "mia_small.dds" ref count 1.
+002138.023|  517696.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "get_back_small.dds" ref count 1.
+002138.023|  517696.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Ring.tga" ref count 120.
+002138.023|  517436.0000kb|   -260.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "EmptyIcon.dds" ref count 1.
+002138.023|  517436.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Basic_Attack.dds" ref count 1.
+002138.023|  517436.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "UNNAMED" ref count 1.
+002138.023|  517436.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "pingCancel.dds" ref count 1.
+002138.023|  517436.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "pingMIA.dds" ref count 1.
+002138.023|  517436.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "pingComeHere.dds" ref count 1.
+002138.023|  517436.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "pingOMW.dds" ref count 1.
+002138.023|  517436.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "PingGetBack.dds" ref count 1.
+002138.023|  517436.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3341_RedTrinket.dds" ref count 1.
+002138.023|  517436.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3340_YellowTrinket.dds" ref count 1.
+002138.023|  517436.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3090_Thoughtbreaker.dds" ref count 1.
+002138.023|  517436.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3301_BabyPhilo.dds" ref count 1.
+002138.023|  517436.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3158_Ionian_Boots_of_Lucidity_A.dds" ref count 1.
+002138.023|  517436.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3008_Boots_Of_Swiftness_A.dds" ref count 1.
+002138.024|  517436.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3047_Phase_Striders_A.dds" ref count 1.
+002138.024|  517436.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3006_Berserkers_Greaves_A.dds" ref count 1.
+002138.024|  517436.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3191_Seekers_Armguard.dds" ref count 1.
+002138.024|  517436.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3190_Crest_of_the_Iron_Solari.dds" ref count 1.
+002138.024|  516908.0000kb|   -528.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3172_Zephyr.dds" ref count 1.
+002138.024|  516908.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Trinket_Yellow_Upgrade_TX_CM.dds" ref count 1.
+002138.024|  516908.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "YellowTrinket_TX_CM.dds" ref count 1.
+002138.024|  516908.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3160_Feral_Flare.dds" ref count 2.
+002138.024|  516908.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3158_Ionian_Boots_of_Lucidity.dds" ref count 1.
+002138.024|  516908.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3154_WrigglesLantern.dds" ref count 1.
+002138.024|  516908.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3153_Blade_of_the_Ruined_King.dds" ref count 1.
+002138.024|  516908.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3144_Bilgewater_Cutlass.dds" ref count 1.
+002138.025|  516908.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3143_Randuins_Omen.dds" ref count 1.
+002138.025|  516908.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3142_YomuuGhostblade.dds" ref count 1.
+002138.025|  516908.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "037_Big_Stick.dds" ref count 1.
+002138.025|  516908.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3114_Forbidden_Idol.dds" ref count 1.
+002138.025|  516908.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3008_Boots_Of_Swiftness.dds" ref count 1.
+002138.025|  516908.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "139_Strygwyrs_Reaver.dds" ref count 1.
+002138.025|  516908.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3105_AegisOfTheLegion.dds" ref count 1.
+002138.025|  516908.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "059_Sheen.dds" ref count 1.
+002138.025|  516908.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3062_Soul_Pendant.dds" ref count 1.
+002138.025|  516908.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3093_Avarice_Blade.dds" ref count 1.
+002138.025|  516908.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Lulu_Q_Skillshot_Tip.dds" ref count 2.
+002138.025|  516648.0000kb|   -260.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Lulu_Q_Skillshot_Base.dds" ref count 2.
+002138.025|  515620.0000kb|  -1028.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3157_Zhonyas_Hourglass.dds" ref count 1.
+002138.025|  515620.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3087_Statikk_Shiv.dds" ref count 1.
+002138.025|  515620.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3058_Sheen_and_Phage.dds" ref count 1.
+002138.025|  515620.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "48thSlave_Enfeeble.dds" ref count 2.
+002138.026|  515620.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3082_Wardens_Mail.dds" ref count 1.
+002138.026|  515620.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3078_Trinity_Force.dds" ref count 1.
+002138.026|  515620.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3077_Tiamat.dds" ref count 1.
+002138.026|  515620.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3074_Ravenous_Hydra.dds" ref count 1.
+002138.026|  515620.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3071_The_Black_Cleaver.dds" ref count 1.
+002138.026|  515620.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3069_Shurelyas_Firecrest.dds" ref count 1.
+002138.026|  515620.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3057_Sheen.dds" ref count 1.
+002138.026|  515620.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3047_Phase_Striders.dds" ref count 1.
+002138.026|  515620.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3044_Phage.dds" ref count 1.
+002138.026|  515620.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3041_Mejais_Soulstealer.dds" ref count 1.
+002138.026|  515620.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3035_Last_Whisper.dds" ref count 1.
+002138.026|  515620.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3031_Infinity_Edge.dds" ref count 1.
+002138.026|  515620.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3020_Flamewalkers.dds" ref count 1.
+002138.026|  515356.0000kb|   -264.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "3006_Berserkers_Greaves.dds" ref count 1.
+002138.026|  515356.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "HA_AP_Poro.dds" ref count 1.
+002138.026|  515356.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "2049_Sightstone.dds" ref count 1.
+002138.026|  515356.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "SightWard.dds" ref count 1.
+002138.026|  515356.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "1020_Glowing_Orb.dds" ref count 1.
+002138.026|  515356.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "VisionWard.dds" ref count 1.
+002138.026|  515356.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "2009_Mini_Pot.dds" ref count 1.
+002138.026|  515356.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "2004_Mana_Potion.dds" ref count 1.
+002138.027|  515356.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "2003_Health_Potion.dds" ref count 1.
+002138.027|  515356.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "1080_SoulEater.dds" ref count 1.
+002138.027|  515356.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "1058_Needlessly_Large_Wand.dds" ref count 1.
+002138.027|  515356.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "PetAttack.dds" ref count 1.
+002138.027|  515356.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "1053_Vampiric_Scepter.dds" ref count 1.
+002138.027|  515356.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "1051_Brawlers_Gloves.dds" ref count 1.
+002138.027|  515356.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "1042_Dagger.dds" ref count 1.
+002138.027|  515356.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "1039_Butchers_Machete.dds" ref count 1.
+002138.027|  515356.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "1038_BF_Sword.dds" ref count 1.
+002138.027|  515356.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "1037_Broadsword.dds" ref count 1.
+002138.027|  515356.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "1036_Long_Sword.dds" ref count 1.
+002138.027|  515356.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "1033_Elementium_Threaded_Cloak.dds" ref count 1.
+002138.027|  515356.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "1029_Cloth_Armour.dds" ref count 1.
+002138.027|  515100.0000kb|   -256.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "1028_RubyCrystal.dds" ref count 1.
+002138.027|  515100.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "1026_Blasting_Band.dds" ref count 1.
+002138.027|  515100.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "1018_Cloak_of_Agility.dds" ref count 1.
+002138.027|  515100.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "1011_Mighty_Waistband_of_the_Reaver.dds" ref count 1.
+002138.027|  515100.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "1006_Rejuvenation_Bead.dds" ref count 1.
+002138.028|  515100.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "1001_Boots_of_Speed.dds" ref count 1.
+002138.028|  515100.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "BlueLaneTower_diff.dds" ref count 1.
+002138.028|  515100.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "BlueLaneTower_diff.dds" ref count 1.
+002138.028|  515100.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "ChaosInhibitor_D.dds" ref count 1.
+002138.028|  515100.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Chaos_Inhibitor_diff.dds" ref count 1.
+002138.028|  515100.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "OrderInhibitor_D.dds" ref count 1.
+002138.028|  515100.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Inhibitor_diff.dds" ref count 1.
+002138.028|  515100.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "tower_destroyed_diff.dds" ref count 1.
+002138.028|  515100.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Chaos_Nexus_diff.dds" ref count 1.
+002138.028|  514580.0000kb|   -520.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "UNNAMED" ref count 1.
+002138.028|  514580.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "UNNAMED" ref count 1.
+002138.028|  514580.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "UNNAMED" ref count 1.
+002138.028|  514580.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Nexus_Destroyed_diff.dds" ref count 1.
+002138.028|  514580.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Nexus_diff.dds" ref count 1.
+002138.028|  514064.0000kb|   -516.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "brush_SR.dds" ref count 6.
+002138.028|  514064.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "profileIcon9.dds" ref count 1.
+002138.029|  514064.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Summoner_heal.dds" ref count 1.
+002138.029|  514064.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "GreatWraith_base_TX_CM.dds" ref count 1.
+002138.029|  514064.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Golem.dds" ref count 1.
+002138.029|  514064.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "lichLoadScreen.dds" ref count 1.
+002138.029|  514064.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "1031_Chain_Vest.dds" ref count 1.
+002138.029|  514064.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "ChaosTurretWorm2.dds" ref count 1.
+002138.029|  514064.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "profileIcon627.dds" ref count 1.
+002138.029|  514064.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Summoner_exhaust.dds" ref count 1.
+002138.029|  514064.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "wraith.dds" ref count 1.
+002138.029|  514064.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "YoungLizard.dds" ref count 1.
+002138.029|  514064.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Chronokeeper_Timestop.dds" ref count 4.
+002138.029|  514064.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "48thSlave_WaveOfLoathing.dds" ref count 1.
+002138.029|  514064.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "LizardElder.dds" ref count 1.
+002138.029|  514064.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "GiantWolf.dds" ref count 1.
+002138.029|  514064.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Lesserwraith.dds" ref count 1.
+002138.029|  514064.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "48thSlave_Tattoo.dds" ref count 5.
+002138.029|  514064.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "AncientGolem.dds" ref count 1.
+002138.029|  513808.0000kb|   -256.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Wolf.dds" ref count 1.
+002138.030|  513808.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "profileIcon673.dds" ref count 1.
+002138.030|  513808.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "lichLoadScreen.dds" ref count 1.
+002138.030|  513808.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Golem.dds" ref count 1.
+002138.030|  513808.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Burning.dds" ref count 2.
+002138.030|  513808.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Dragon.dds" ref count 1.
+002138.030|  513808.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Lizard.dds" ref count 1.
+002138.030|  513808.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "RedHqTower_diff.dds" ref count 1.
+002138.030|  513808.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "profileIcon539.dds" ref count 1.
+002138.030|  513808.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Summoner_teleport.dds" ref count 1.
+002138.030|  513808.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "RedGateTower_diff.dds" ref count 1.
+002138.030|  513676.0000kb|   -132.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "RedLaneTower_diff.dds" ref count 1.
+002138.030|  513676.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "ChaosLaneTower_Icon_C.dds" ref count 1.
+002138.030|  513676.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "RedLaneTower_diff.dds" ref count 1.
+002138.030|  513524.0000kb|   -152.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "ChaosLaneTower_Icon.dds" ref count 1.
+002138.031|  513524.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "BlueLaneTower_diff.dds" ref count 1.
+002138.031|  513524.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "BlueLaneTower_diff.dds" ref count 1.
+002138.031|  513524.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "BlueGateTower_diff.dds" ref count 1.
+002138.031|  513524.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "096_Eye_of_the_Observer.dds" ref count 1.
+002138.031|  513524.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "BlueHqTower_diff.dds" ref count 1.
+002138.031|  513524.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Red_Minion_MechMelee.dds" ref count 1.
+002138.031|  513396.0000kb|   -128.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Red_Minion_Basic.dds" ref count 1.
+002138.031|  513004.0000kb|   -392.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Red_minion_Wizard.dds" ref count 1.
+002138.031|  513004.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Red_Minion_MechCannon.dds" ref count 1.
+002138.031|  513004.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Blue_Minion_MechMelee.dds" ref count 1.
+002138.031|  513004.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Blue_Minion_Basic.dds" ref count 1.
+002138.031|  512872.0000kb|   -132.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Blue_Minion_Wizard.dds" ref count 1.
+002138.031|  512872.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "profileIcon664.dds" ref count 1.
+002138.031|  512872.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Blue_Minion_MechCannon.dds" ref count 1.
+002138.031|  512740.0000kb|   -132.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "AOE.tga" ref count 7.
+002138.031|  512480.0000kb|   -260.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "profileIcon547.dds" ref count 1.
+002138.032|  512480.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Summoner_haste.dds" ref count 2.
+002138.032|  512480.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Summoner_smite.dds" ref count 1.
+002138.032|  512480.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "profileIcon662.dds" ref count 1.
+002138.032|  512480.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Summoner_flash.dds" ref count 1.
+002138.032|  512480.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "SummonerIgnite.dds" ref count 1.
+002138.032|  512480.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Blank.dds" ref count 1.
+002138.033|  509396.0000kb|  -3084.0000kb added| ALWAYS| r3dRenderLayer::Close() exit
+002138.034|  509396.0000kb|      0.0000kb added| ALWAYS| Destroying the Renderer (1)
+002138.034|  509012.0000kb|   -384.0000kb added|   WARN| Dradis: CleanupDradis, cluster is still active
+002138.256|  509020.0000kb|      8.0000kb added| ALWAYS| game::Shutdown
+002138.256|  509000.0000kb|    -20.0000kb added| ALWAYS| ClientFacade::Stop
+002138.259|  508988.0000kb|    -12.0000kb added| ALWAYS| Bugsplat disabled (end of game?)
+002138.276|  495444.0000kb| -13544.0000kb added| ALWAYS| Exiting WinMain
